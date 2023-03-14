@@ -1,0 +1,1094 @@
+[2023/2/20 0:34:35]发起者:
+内容:Player.NomelTaskJson不存在415
+
+[2023/2/20 0:44:20]发起者:
+内容:Player.NomelTaskJson不存在414
+
+[2023/2/20 0:50:07]发起者:
+内容:Player.NomelTaskJson不存在415
+
+[2023/2/20 0:53:04]发起者:
+内容:Player.NomelTaskJson不存在415
+
+[2023/2/20 0:53:04]发起者:
+内容:Player.NomelTaskJson不存在414
+
+[2023/2/20 0:53:57]发起者:
+内容:Player.NomelTaskJson不存在415
+
+[2023/2/20 0:58:33]发起者:
+内容:Player.NomelTaskJson不存在415
+
+[2023/2/20 0:58:33]发起者:
+内容:Player.NomelTaskJson不存在414
+
+[2023/2/20 0:59:17]发起者:
+内容:Player.NomelTaskJson不存在415
+
+[2023/2/20 1:07:10]发起者:
+内容:Player.NomelTaskJson不存在415
+
+[2023/2/20 1:07:12]发起者:
+内容:Player.NomelTaskJson不存在415
+
+[2023/2/20 1:09:08]发起者:
+内容:Player.NomelTaskJson不存在415
+
+[2023/2/20 1:10:38]发起者:
+内容:Player.NomelTaskJson不存在415
+
+[2023/2/20 1:10:40]发起者:
+内容:Player.NomelTaskJson不存在415
+
+[2023/2/20 1:11:51]发起者:
+内容:Player.NomelTaskJson不存在415
+
+[2023/2/20 1:11:51]发起者:
+内容:Player.NomelTaskJson不存在414
+
+[2023/2/20 1:16:43]发起者:
+内容:Player.NomelTaskJson不存在415
+
+[2023/2/20 1:19:22]发起者:
+内容:Player.NomelTaskJson不存在415
+
+[2023/2/20 1:20:19]发起者:
+内容:Player.NomelTaskJson不存在415
+
+[2023/2/20 1:40:05]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/20 1:46:08]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/20 2:09:01]发起者:
+内容:Coroutine couldn't be started because the the game object '1581' is inactive!
+
+[2023/2/20 3:16:12]发起者:
+内容:fungus遇到空command，已断开循环，当前场景F14，Flowchart:89，Block:AvatarIn
+当前block含有2个command，当前处于1
+
+[2023/2/20 3:25:17]发起者:
+内容:Fungus出现异常，所在Flowchart Talk7137，所在Block 判定，CommandIndex 3，异常信息:
+Object reference not set to an instance of an object
+  at CmdSetJiaoHuNPC.OnEnter () [0x00000] in <7d04e6edada442d2959580df0c793c49>:0 
+  at Fungus.Command.Execute () [0x0001a] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/2/22 0:19:42]发起者:
+内容:Player.NomelTaskJson不存在151
+
+[2023/2/22 0:19:42]发起者:
+内容:Player.NomelTaskJson不存在150
+
+[2023/2/22 0:56:44]发起者:
+内容:fungus遇到空command，已断开循环，当前场景S1230，Flowchart:kefang，Block:statrt
+当前block含有2个command，当前处于1
+
+[2023/2/22 0:56:48]发起者:
+内容:fungus遇到空command，已断开循环，当前场景S1230，Flowchart:kefang，Block:statrt
+当前block含有2个command，当前处于1
+
+[2023/2/22 1:19:51]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/22 1:28:09]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/22 1:29:13]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/22 1:34:04]发起者:
+内容:Fungus出现异常，所在Flowchart Talk7137，所在Block 判定，CommandIndex 3，异常信息:
+Object reference not set to an instance of an object
+  at CmdSetJiaoHuNPC.OnEnter () [0x00000] in <7d04e6edada442d2959580df0c793c49>:0 
+  at Fungus.Command.Execute () [0x0001a] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/2/22 1:37:15]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/22 1:53:36]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/22 1:54:03]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/22 15:18:19]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/22 15:20:03]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/22 15:36:07]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/22 16:05:49]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/22 17:15:41]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/22 19:30:00]发起者:
+内容:六魂幡 id:209没有配FaBaoType
+
+[2023/2/22 20:58:04]发起者:
+内容:Player.NomelTaskJson不存在182
+
+[2023/2/22 21:28:09]发起者:
+内容:饮血珠 id:10没有配FaBaoType
+
+[2023/2/22 21:32:05]发起者:
+内容:饮血珠 id:10没有配FaBaoType
+
+[2023/2/22 21:54:58]发起者:
+内容:Fungus出现异常，所在Flowchart 55，所在Block 通过，CommandIndex 1，异常信息:
+Object reference not set to an instance of an object
+  at Fungus.FuBenAvatarTransfer.OnEnter () [0x0001a] in <7d04e6edada442d2959580df0c793c49>:0 
+  at Fungus.Command.Execute () [0x0001a] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/2/22 23:07:40]发起者:
+内容:Fungus出现异常，所在Flowchart Talk1198201，所在Block 剑道，CommandIndex 1，异常信息:
+Object reference not set to an instance of an object
+  at Fungus.AddLingGuang.OnEnter () [0x0000a] in <7d04e6edada442d2959580df0c793c49>:0 
+  at Fungus.Command.Execute () [0x0001a] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/2/22 23:09:04]发起者:
+内容:Fungus出现异常，所在Flowchart Talk1198201，所在Block 剑道，CommandIndex 1，异常信息:
+Object reference not set to an instance of an object
+  at Fungus.AddLingGuang.OnEnter () [0x0000a] in <7d04e6edada442d2959580df0c793c49>:0 
+  at Fungus.Command.Execute () [0x0001a] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/2/22 23:13:46]发起者:
+内容:Player.NomelTaskJson不存在162
+
+[2023/2/22 23:13:56]发起者:
+内容:Player.NomelTaskJson不存在172
+
+[2023/2/22 23:14:09]发起者:
+内容:Player.NomelTaskJson不存在182
+
+[2023/2/23 22:01:02]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/23 22:01:15]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/23 22:10:09]发起者:
+内容:Player.NomelTaskJson不存在172
+
+[2023/2/23 22:10:17]发起者:
+内容:Player.NomelTaskJson不存在182
+
+[2023/2/23 22:38:26]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/24 21:50:08]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/24 23:47:35]发起者:
+内容:Fungus出现异常，所在Flowchart 55，所在Block 通过，CommandIndex 1，异常信息:
+Object reference not set to an instance of an object
+  at Fungus.FuBenAvatarTransfer.OnEnter () [0x0001a] in <7d04e6edada442d2959580df0c793c49>:0 
+  at Fungus.Command.Execute () [0x0001a] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/2/24 23:49:14]发起者:
+内容:检测到buff错误！错误 BuffID:691
+buffInfo:1 3 691 
+flag:57 7092 0 0 0 
+buffLoopDataStr:
+
+[2023/2/24 23:49:14]发起者:
+内容:System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.IsXiangShengXiangKeTongXi (System.Int32 type, System.Int32 skillID, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo) [0x00073] in <7d04e6edada442d2959580df0c793c49>:0 
+  at KBEngine.Buff.CanRealizeSeid (KBEngine.Avatar _avatar, System.Collections.Generic.List`1[T] flag, System.Int32 nowSeid, KBEngine.BuffLoopData buffLoopData, System.Collections.Generic.List`1[T] buffInfo) [0x00c40] in <7d04e6edada442d2959580df0c793c49>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x00033] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/2/24 23:49:14]发起者:
+内容:检测到buff错误！错误 BuffID:692
+buffInfo:1 3 692 
+flag:57 7092 0 0 0 
+buffLoopDataStr:
+
+[2023/2/24 23:49:14]发起者:
+内容:System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.IsXiangShengXiangKeTongXi (System.Int32 type, System.Int32 skillID, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo) [0x0010d] in <7d04e6edada442d2959580df0c793c49>:0 
+  at KBEngine.Buff.CanRealizeSeid (KBEngine.Avatar _avatar, System.Collections.Generic.List`1[T] flag, System.Int32 nowSeid, KBEngine.BuffLoopData buffLoopData, System.Collections.Generic.List`1[T] buffInfo) [0x00c40] in <7d04e6edada442d2959580df0c793c49>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x00033] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/2/25 22:07:54]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/25 22:08:02]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/25 22:08:33]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/25 22:28:50]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/25 23:00:35]发起者:
+内容:检测到buff错误！错误 BuffID:691
+buffInfo:1 3 691 
+flag:58 7092 0 0 0 
+buffLoopDataStr:
+
+[2023/2/25 23:00:35]发起者:
+内容:System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.IsXiangShengXiangKeTongXi (System.Int32 type, System.Int32 skillID, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo) [0x00073] in <7d04e6edada442d2959580df0c793c49>:0 
+  at KBEngine.Buff.CanRealizeSeid (KBEngine.Avatar _avatar, System.Collections.Generic.List`1[T] flag, System.Int32 nowSeid, KBEngine.BuffLoopData buffLoopData, System.Collections.Generic.List`1[T] buffInfo) [0x00c40] in <7d04e6edada442d2959580df0c793c49>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x00033] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/2/25 23:00:35]发起者:
+内容:检测到buff错误！错误 BuffID:692
+buffInfo:1 3 692 
+flag:58 7092 0 0 0 
+buffLoopDataStr:
+
+[2023/2/25 23:00:35]发起者:
+内容:System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.IsXiangShengXiangKeTongXi (System.Int32 type, System.Int32 skillID, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo) [0x0010d] in <7d04e6edada442d2959580df0c793c49>:0 
+  at KBEngine.Buff.CanRealizeSeid (KBEngine.Avatar _avatar, System.Collections.Generic.List`1[T] flag, System.Int32 nowSeid, KBEngine.BuffLoopData buffLoopData, System.Collections.Generic.List`1[T] buffInfo) [0x00c40] in <7d04e6edada442d2959580df0c793c49>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x00033] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/2/25 23:00:50]发起者:
+内容:检测到buff错误！错误 BuffID:691
+buffInfo:1 3 691 
+flag:58 7092 0 0 0 
+buffLoopDataStr:
+
+[2023/2/25 23:00:50]发起者:
+内容:System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.IsXiangShengXiangKeTongXi (System.Int32 type, System.Int32 skillID, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo) [0x00073] in <7d04e6edada442d2959580df0c793c49>:0 
+  at KBEngine.Buff.CanRealizeSeid (KBEngine.Avatar _avatar, System.Collections.Generic.List`1[T] flag, System.Int32 nowSeid, KBEngine.BuffLoopData buffLoopData, System.Collections.Generic.List`1[T] buffInfo) [0x00c40] in <7d04e6edada442d2959580df0c793c49>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x00033] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/2/25 23:00:50]发起者:
+内容:检测到buff错误！错误 BuffID:692
+buffInfo:1 3 692 
+flag:58 7092 0 0 0 
+buffLoopDataStr:
+
+[2023/2/25 23:00:50]发起者:
+内容:System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.IsXiangShengXiangKeTongXi (System.Int32 type, System.Int32 skillID, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo) [0x0010d] in <7d04e6edada442d2959580df0c793c49>:0 
+  at KBEngine.Buff.CanRealizeSeid (KBEngine.Avatar _avatar, System.Collections.Generic.List`1[T] flag, System.Int32 nowSeid, KBEngine.BuffLoopData buffLoopData, System.Collections.Generic.List`1[T] buffInfo) [0x00c40] in <7d04e6edada442d2959580df0c793c49>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x00033] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/2/26 21:15:25]发起者:
+System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <d7ac571ca2d04b2f981d0d886fa067cf>:0)
+System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <d7ac571ca2d04b2f981d0d886fa067cf>:0)
+SSVItem.set_DataIndex (System.Int32 value) (at <7d04e6edada442d2959580df0c793c49>:0)
+YSGame.TuJian.SuperScrollView.OnScrollMove (UnityEngine.Vector2 pVec) (at <7d04e6edada442d2959580df0c793c49>:0)
+YSGame.TuJian.SuperScrollView.<Init>b__18_0 (UnityEngine.Vector2 vec) (at <7d04e6edada442d2959580df0c793c49>:0)
+UnityEngine.Events.InvokableCall`1[T1].Invoke (T1 args0) (at <d1ee6842adb54fe4a47b6961de57640a>:0)
+UnityEngine.Events.UnityEvent`1[T0].Invoke (T0 arg0) (at <d1ee6842adb54fe4a47b6961de57640a>:0)
+UnityEngine.UI.ScrollRect.LateUpdate () (at <2d363c57bce242859dd5df249ef3bedb>:0)
+内容:ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+[2023/2/26 21:16:12]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/26 21:38:07]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/26 21:43:16]发起者:
+内容:Player.NomelTaskJson不存在182
+
+[2023/2/26 21:49:37]发起者:
+内容:Player.NomelTaskJson不存在162
+
+[2023/2/26 21:49:47]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/26 22:01:21]发起者:
+内容:Player.NomelTaskJson不存在162
+
+[2023/2/26 22:02:38]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/2/26 23:09:19]发起者:
+Spine.Unity.Examples.SkeletonAnimationHandleExample.Awake () (at <507cedfc38254102a99d61aae3fdcd2b>:0)
+内容:NullReferenceException: Object reference not set to an instance of an object
+
+[2023/2/26 23:13:46]发起者:
+Spine.Unity.Examples.SkeletonAnimationHandleExample.Awake () (at <507cedfc38254102a99d61aae3fdcd2b>:0)
+内容:NullReferenceException: Object reference not set to an instance of an object
+
+[2023/2/26 23:16:53]发起者:
+Spine.Unity.Examples.SkeletonAnimationHandleExample.Awake () (at <507cedfc38254102a99d61aae3fdcd2b>:0)
+内容:NullReferenceException: Object reference not set to an instance of an object
+
+[2023/2/27 15:01:39]发起者:
+内容:fungus遇到空command，已断开循环，当前场景F14，Flowchart:89，Block:AvatarIn
+当前block含有2个command，当前处于1
+
+[2023/2/28 0:53:14]发起者:
+内容:Coroutine couldn't be started because the the game object '1551' is inactive!
+
+[2023/2/28 0:53:14]发起者:
+内容:Coroutine couldn't be started because the the game object '1551' is inactive!
+
+[2023/2/28 8:42:41]发起者:
+内容:获取NPCJson异常，没有NPCID:0的数据
+
+[2023/2/28 8:42:45]发起者:
+内容:获取NPCJson异常，没有NPCID:0的数据
+
+[2023/2/28 8:42:45]发起者:
+内容:Fungus出现异常，所在Flowchart 46，所在Block 性格获取，CommandIndex 5，异常信息:
+Object reference not set to an instance of an object
+  at CmdCheckGuanXi.OnEnter () [0x00002] in <7d04e6edada442d2959580df0c793c49>:0 
+  at Fungus.Command.Execute () [0x0001a] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/2/28 8:42:51]发起者:
+内容:获取NPCJson异常，没有NPCID:0的数据
+
+[2023/2/28 8:42:51]发起者:
+内容:Fungus出现异常，所在Flowchart 44，所在Block 性格判定，CommandIndex 5，异常信息:
+Object reference not set to an instance of an object
+  at CmdCheckGuanXi.OnEnter () [0x00002] in <7d04e6edada442d2959580df0c793c49>:0 
+  at Fungus.Command.Execute () [0x0001a] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/2/28 8:42:53]发起者:
+内容:获取NPCJson异常，没有NPCID:0的数据
+
+[2023/2/28 8:42:53]发起者:
+内容:Fungus出现异常，所在Flowchart 22，所在Block 性格判定，CommandIndex 5，异常信息:
+Object reference not set to an instance of an object
+  at CmdCheckGuanXi.OnEnter () [0x00002] in <7d04e6edada442d2959580df0c793c49>:0 
+  at Fungus.Command.Execute () [0x0001a] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/2/28 8:42:56]发起者:
+内容:获取NPCJson异常，没有NPCID:0的数据
+
+[2023/2/28 8:42:56]发起者:
+内容:Fungus出现异常，所在Flowchart 46，所在Block 性格获取，CommandIndex 5，异常信息:
+Object reference not set to an instance of an object
+  at CmdCheckGuanXi.OnEnter () [0x00002] in <7d04e6edada442d2959580df0c793c49>:0 
+  at Fungus.Command.Execute () [0x0001a] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/2/28 8:44:32]发起者:
+内容:设置形象时出错，ID:20907，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/2/28 8:44:32]发起者:
+内容:Fungus出现异常，所在Flowchart Talk8106，所在Block 诛杀，CommandIndex 4，异常信息:
+Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0021e] in <7d04e6edada442d2959580df0c793c49>:0 
+  at Fungus.SayDialog.SetCharacterImage (UnityEngine.Sprite image, System.Int32 characterID) [0x000b5] in <7d04e6edada442d2959580df0c793c49>:0 
+  at Fungus.Say.OnEnter () [0x00110] in <7d04e6edada442d2959580df0c793c49>:0 
+  at Fungus.Command.Execute () [0x0001a] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/6 1:03:32]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/3/6 1:05:21]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/3/6 1:07:19]发起者:
+内容:Player.NomelTaskJson不存在162
+
+[2023/3/6 1:48:03]发起者:
+内容:Player.NomelTaskJson不存在152
+
+[2023/3/7 0:13:19]发起者:
+内容:Player.NomelTaskJson不存在172
+
+[2023/3/7 0:15:56]发起者:
+内容:Player.NomelTaskJson不存在162
+
+[2023/3/7 2:00:16]发起者:
+Spine.Unity.Examples.SkeletonAnimationHandleExample.Awake () (at <507cedfc38254102a99d61aae3fdcd2b>:0)
+内容:NullReferenceException: Object reference not set to an instance of an object
+
+[2023/3/7 2:07:04]发起者:
+内容:System.NullReferenceException: Object reference not set to an instance of an object
+  at CmdGetNPCJson.OnEnter () [0x00097] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 2:07:04]发起者:
+内容:获取NPCJson异常，NPCID:20297，要获取的变量:LevelStr(String)，JSON数据:{"id":20297,"Name":"","IsTag":false,"FirstName":"","face":0,"fightFace":0,"isImportant":true,"IsKnowPlayer":false,"CyList":[],"TuPoMiShu":[],"Title":"竹山宗大长老","ChengHaoID":8,"Type":1,"LiuPai":1,"MenPai":1,"AvatarType":1,"Level":10,"BindingNpcID":202,"SexType":2,"dunSu":48,"shengShi":55,"shaQi":0,"NextExp":19440000,"equipWeapon":0,"equipList":{"Weapon1":{"SkillSeids":[{"id":29,"value1":1},{"id":80,"value1":[953],"value2":[24]},{"id":79,"value1":[8],"value2":[11]}],"ItemID":18001,"Name":"木氤胜心剑","SeidDesc":"敌方获得【缠绕】x11
+对自己造成24点真实伤害
+","ItemIcon":"LianQiIcon/MCS_fabao_jian_1_4","quality":4,"QPingZhi":1,"shuXingIdList":[10],"qualitydesc":"下品纯阳法宝","Desc":"不知何人将吞云蟒之骨、木龙鳞、木龙鳞等材料炼制的下品纯阳法宝，此剑铭刻白虎灵纹,灵力更加强大，但对使用者也要求更高。","AttackType":[1],"Money":493200,"ItemFlag":[104,1041,1]},"Clothing":{"SkillSeids":[{"id":29,"value1":1}],"ItemSeids":[{"id":5,"value1":[953],"value2":[6]},{"id":5,"value1":[5],"value2":[61]}],"ItemID":18006,"Name":"辟尘太白袍","SeidDesc":"回合结束，获得【护罩】x61
+对自己造成6点真实伤害
+","ItemIcon":"LianQiIcon/MCS_fabao_pao_5_4","quality":4,"QPingZhi":2,"shuXingIdList":[86],"qualitydesc":"中品纯阳法宝","Desc":"不知何人将暴龙皮、暴龙心脏、天玄马心脏等材料炼制的中品纯阳法宝，此法袍铭刻白虎灵纹,灵力更加强大，但对使用者也要求更高。","AttackType":[5],"Money":613200,"ItemFlag":[204,2045,2]},"Ring":{"SkillSeids":[{"id":29,"value1":1}],"ItemSeids":[{"id":5,"value1":[953],"value2":[12]},{"id":17,"value1":[1],"value2":[9]}],"ItemID":18009,"Name":"丰茂斩星令","SeidDesc":"回合开始，敌方获得【中毒】x9
+对自己造成12点真实伤害
+","ItemIcon":"LianQiIcon/MCS_fabao_ling_1_4","quality":4,"QPingZhi":1,"shuXingIdList":[130],"qualitydesc":"下品纯阳法宝","Desc":"不知何人将木龙鳞、牙木铁、渊虾足等材料炼制的下品纯阳法宝，此令铭刻白虎灵纹,灵力更加强大，但对使用者也要求更高。","AttackType":[1],"Money":493200,"ItemFlag":[304,3041,3]}},"equipWeaponPianHao":[10,11,42,59],"equipWeapon2PianHao":[10,11,42,59],"equipClothingPianHao":[86,102,101],"equipRingPianHao":[130,131,132,138,146],"equipClothing":0,"equipRing":0,"LingGen":[5,40,25,5,5],"skills":[501,504,120,119,233,104,125,124,210],"JinDanType":[1,2],"staticSkills":[1039,1079,1084,1089,1005],"xiuLianSpeed":2433,"yuanying":1093,"MoneyType":5,"IsRefresh":0,"dropType":0,"canjiaPaiMai":0,"paimaifenzu":[1],"wudaoType":21,"XinQuType":302,"gudingjiage":0,"sellPercent":0,"useItem":{"5207":3,"5119":2,"5320":3,"5102":11},"NoteBook":{"10":[{"danyao":5207,"num":3,"time":"0001/12/1 0:00:00"},{"danyao":5320,"num":3,"time":"0032/7/1 0:00:00"}],"50":[{"npcname":"李楚","time":"0003/1/1 0:00:00"},{"npcname":"戚踏冥","time":"0005/10/1 0:00:00"},{"npcname":"李楚","time":"0006/7/1 0:00:00"},{"npcname":"常宛海","time":"0007/10/1 0:00:00"},{"npcname":"李楚","time":"0009/12/1 0:00:00"},{"npcname":"李楚","time":"0009/12/1 0:00:00"},{"npcname":"堵灵槐","time":"0011/4/1 0:00:00"},{"npcname":"莘水瑶","time":"0012/11/1 0:00:00"},{"npcname":"李楚","time":"0019/1/1 0:00:00"},{"npcname":"李楚","time":"0019/1/1 0:00:00"},{"npcname":"麻忘忧","time":"0023/12/1 0:00:00"},{"npcname":"李楚","time":"0025/9/1 0:00:00"},{"npcname":"李楚","time":"0028/8/1 0:00:00"},{"npcname":"李楚","time":"0030/11/1 0:00:00"},{"npcname":"鲁昭变","time":"0037/7/1 0:00:00"},{"npcname":"孔妙","time":"0040/8/1 0:00:00"},{"npcname":"李楚","time":"0046/9/1 0:00:00"}],"31":[{"danyao":5119,"num":2,"time":"0004/6/1 0:00:00"},{"danyao":5121,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5108,"num":2,"time":"0004/6/1 0:00:00"},{"danyao":5103,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5112,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5102,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5111,"num":3,"time":"0004/6/1 0:00:00"},{"danyao":5116,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5114,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5109,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5115,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5102,"num":3,"time":"0006/10/1 0:00:00"},{"danyao":5107,"num":2,"time":"0006/10/1 0:00:00"},{"danyao":5104,"num":2,"time":"0006/10/1 0:00:00"},{"danyao":5113,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5116,"num":4,"time":"0006/10/1 0:00:00"},{"danyao":5110,"num":2,"time":"0006/10/1 0:00:00"},{"danyao":5111,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5106,"num":2,"time":"0006/10/1 0:00:00"},{"danyao":5118,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5121,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5117,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5119,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5112,"num":2,"time":"0007/2/1 0:00:00"},{"danyao":5111,"num":2,"time":"0007/2/1 0:00:00"},{"danyao":5107,"num":2,"time":"0007/2/1 0:00:00"},{"danyao":5116,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5106,"num":3,"time":"0007/2/1 0:00:00"},{"danyao":5117,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5109,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5118,"num":3,"time":"0007/2/1 0:00:00"},{"danyao":5108,"num":2,"time":"0007/2/1 0:00:00"},{"danyao":5114,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5113,"num":3,"time":"0011/10/1 0:00:00"},{"danyao":5118,"num":3,"time":"0011/10/1 0:00:00"},{"danyao":5101,"num":4,"time":"0011/10/1 0:00:00"},{"danyao":5103,"num":3,"time":"0011/10/1 0:00:00"},{"danyao":5121,"num":1,"time":"0011/10/1 0:00:00"},{"danyao":5106,"num":4,"time":"0011/10/1 0:00:00"},{"danyao":5110,"num":2,"time":"0011/10/1 0:00:00"},{"danyao":5104,"num":2,"time":"0011/10/1 0:00:00"},{"danyao":5111,"num":1,"time":"0011/10/1 0:00:00"},{"danyao":5119,"num":1,"time":"0011/10/1 0:00:00"},{"danyao":5104,"num":4,"time":"0011/11/1 0:00:00"},{"danyao":5102,"num":2,"time":"0011/11/1 0:00:00"},{"danyao":5101,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5116,"num":2,"time":"0011/11/1 0:00:00"},{"danyao":5108,"num":2,"time":"0011/11/1 0:00:00"},{"danyao":5111,"num":3,"time":"0011/11/1 0:00:00"},{"danyao":5103,"num":2,"time":"0011/11/1 0:00:00"},{"danyao":5110,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5114,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5121,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5120,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5115,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5115,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5118,"num":2,"time":"0015/2/1 0:00:00"},{"danyao":5113,"num":3,"time":"0015/2/1 0:00:00"},{"danyao":5103,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5108,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5110,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5112,"num":2,"time":"0015/2/1 0:00:00"},{"danyao":5116,"num":3,"time":"0015/2/1 0:00:00"},{"danyao":5101,"num":2,"time":"0015/2/1 0:00:00"},{"danyao":5107,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5120,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5117,"num":2,"time":"0015/2/1 0:00:00"},{"danyao":5104,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5121,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5111,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5101,"num":2,"time":"0015/3/1 0:00:00"},{"danyao":5109,"num":3,"time":"0015/3/1 0:00:00"},{"danyao":5121,"num":3,"time":"0015/3/1 0:00:00"},{"danyao":5103,"num":2,"time":"0015/3/1 0:00:00"},{"danyao":5115,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5120,"num":3,"time":"0015/3/1 0:00:00"},{"danyao":5106,"num":3,"time":"0015/3/1 0:00:00"},{"danyao":5116,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5104,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5118,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5117,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5113,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5107,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5108,"num":3,"time":"0015/6/1 0:00:00"},{"danyao":5116,"num":2,"time":"0015/6/1 0:00:00"},{"danyao":5101,"num":2,"time":"0015/6/1 0:00:00"},{"danyao":5110,"num":4,"time":"0015/6/1 0:00:00"},{"danyao":5112,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5120,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5114,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5106,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5118,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5121,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5111,"num":2,"time":"0015/6/1 0:00:00"},{"danyao":5109,"num":2,"time":"0015/6/1 0:00:00"},{"danyao":5115,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5119,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5111,"num":2,"time":"0021/1/1 0:00:00"},{"danyao":5110,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5117,"num":2,"time":"0021/1/1 0:00:00"},{"danyao":5112,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5120,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5121,"num":2,"time":"0021/1/1 0:00:00"},{"danyao":5119,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5102,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5108,"num":2,"time":"0021/1/1 0:00:00"},{"danyao":5106,"num":4,"time":"0021/1/1 0:00:00"},{"danyao":5115,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5106,"num":1,"time":"0021/7/1 0:00:00"},{"danyao":5121,"num":3,"time":"0021/7/1 0:00:00"},{"danyao":5110,"num":2,"time":"0021/7/1 0:00:00"},{"danyao":5112,"num":2,"time":"0021/7/1 0:00:00"},{"danyao":5108,"num":4,"time":"0021/7/1 0:00:00"},{"danyao":5114,"num":2,"time":"0021/7/1 0:00:00"},{"danyao":5103,"num":3,"time":"0021/7/1 0:00:00"},{"danyao":5102,"num":1,"time":"0021/7/1 0:00:00"},{"danyao":5119,"num":1,"time":"0021/7/1 0:00:00"},{"danyao":5110,"num":2,"time":"0022/2/1 0:00:00"},{"danyao":5117,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5104,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5108,"num":2,"time":"0022/2/1 0:00:00"},{"danyao":5112,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5109,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5116,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5115,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5111,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5119,"num":3,"time":"0022/2/1 0:00:00"},{"danyao":5101,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5103,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5115,"num":2,"time":"0032/1/1 0:00:00"},{"danyao":5114,"num":2,"time":"0032/1/1 0:00:00"},{"danyao":5102,"num":2,"time":"0032/1/1 0:00:00"},{"danyao":5106,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5120,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5116,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5119,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5104,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5107,"num":2,"time":"0032/1/1 0:00:00"},{"danyao":5121,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5112,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5101,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5113,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5117,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5110,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5119,"num":3,"time":"0032/5/1 0:00:00"},{"danyao":5111,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5115,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5120,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5107,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5116,"num":2,"time":"0032/5/1 0:00:00"},{"danyao":5121,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5115,"num":2,"time":"0041/12/1 0:00:00"},{"danyao":5112,"num":2,"time":"0041/12/1 0:00:00"},{"danyao":5117,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5118,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5116,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5121,"num":3,"time":"0041/12/1 0:00:00"},{"danyao":5114,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5109,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5119,"num":2,"time":"0041/12/1 0:00:00"},{"danyao":5110,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5102,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5106,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5107,"num":3,"time":"0050/8/1 0:00:00"},{"danyao":5118,"num":2,"time":"0050/8/1 0:00:00"},{"danyao":5114,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5101,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5109,"num":5,"time":"0050/8/1 0:00:00"},{"danyao":5104,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5110,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5113,"num":3,"time":"0050/8/1 0:00:00"},{"danyao":5117,"num":2,"time":"0050/8/1 0:00:00"},{"danyao":5108,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5116,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5103,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5120,"num":1,"time":"0050/8/1 0:00:00"}],"7":[{"danyao":5119,"num":2,"time":"0004/7/1 0:00:00"}],"4":[{"danyao":5102,"num":1,"time":"0004/7/1 0:00:00"},{"danyao":5102,"num":3,"time":"0007/1/1 0:00:00"},{"danyao":5102,"num":2,"time":"0011/12/1 0:00:00"},{"danyao":5102,"num":1,"time":"0021/2/1 0:00:00"},{"danyao":5102,"num":1,"time":"0021/8/1 0:00:00"},{"danyao":5102,"num":2,"time":"0032/2/1 0:00:00"},{"danyao":5102,"num":1,"time":"0050/10/1 0:00:00"}],"33":[{"qiYuId":1,"time":"0010/1/1 0:00:00"},{"qiYuId":401,"time":"0016/1/1 0:00:00"},{"qiYuId":2,"time":"0024/6/1 0:00:00"},{"qiYuId":403,"item":6503,"num":1,"time":"0027/1/1 0:00:00"},{"qiYuId":402,"time":"0029/1/1 0:00:00"},{"qiYuId":401,"time":"0036/1/1 0:00:00"},{"qiYuId":9,"time":"0041/10/1 0:00:00"},{"qiYuId":1,"time":"0049/1/1 0:00:00"}],"60":[{"item":11401,"itemName":"","time":"0020/4/1 0:00:00"},{"item":11401,"itemName":"","time":"0030/3/1 0:00:00"}],"71":[{"rank":6,"time":"0050/01/21"}]},"wuDaoSkillList":[201,212,221,232,241,901,911,921,701,711,721,2001],"wuDaoJson":{"1":{"id":1,"level":3,"exp":30252},"2":{"id":2,"level":5,"exp":227520},"3":{"id":3,"level":3,"exp":30000},"4":{"id":4,"level":3,"exp":30252},"5":{"id":5,"level":3,"exp":30126},"6":{"id":6,"level":3,"exp":30000},"7":{"id":7,"level":3,"exp":30000},"8":{"id":8,"level":1,"exp":1260},"9":{"id":9,"level":3,"exp":62400},"10":{"id":10,"level":1,"exp":1000},"21":{"id":21,"level":1,"exp":7521},"22":{"id":22,"level":1,"exp":1000}},"ziZhi":81,"XingGe":6,"NPCTag":2,"shouYuan":1041,"wuXin":81,"HP":2594,"WuDaoValue":343243,"WuDaoValueLevel":27,"EWWuDaoDian":27,"Status":{"StatusId":1,"StatusTime":59974},"GongXian":36,"age":5890,"IsNeedHelp":false,"isTanChaUnlock":false,"exp":10411708,"QingFen":500,"ActionId":2}
+
+[2023/3/7 2:07:22]发起者:
+内容:记录生平出错，找不到ID为 疏远毕业​ 的配表数据
+
+[2023/3/7 2:10:02]发起者:
+内容:DeDaiSetWhereNode(151)递归超过1000次，强制终止
+
+[2023/3/7 2:21:57]发起者:
+内容:System.NullReferenceException: Object reference not set to an instance of an object
+  at CmdGetNPCJson.OnEnter () [0x00097] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 2:21:57]发起者:
+内容:获取NPCJson异常，NPCID:20297，要获取的变量:LevelStr(String)，JSON数据:{"id":20297,"Name":"","IsTag":false,"FirstName":"","face":0,"fightFace":0,"isImportant":true,"IsKnowPlayer":false,"CyList":[],"TuPoMiShu":[],"Title":"竹山宗大长老","ChengHaoID":8,"Type":1,"LiuPai":1,"MenPai":1,"AvatarType":1,"Level":10,"BindingNpcID":202,"SexType":2,"dunSu":48,"shengShi":55,"shaQi":0,"NextExp":19440000,"equipWeapon":0,"equipList":{"Weapon1":{"SkillSeids":[{"id":29,"value1":1},{"id":80,"value1":[953],"value2":[24]},{"id":79,"value1":[8],"value2":[11]}],"ItemID":18001,"Name":"木氤胜心剑","SeidDesc":"敌方获得【缠绕】x11
+对自己造成24点真实伤害
+","ItemIcon":"LianQiIcon/MCS_fabao_jian_1_4","quality":4,"QPingZhi":1,"shuXingIdList":[10],"qualitydesc":"下品纯阳法宝","Desc":"不知何人将吞云蟒之骨、木龙鳞、木龙鳞等材料炼制的下品纯阳法宝，此剑铭刻白虎灵纹,灵力更加强大，但对使用者也要求更高。","AttackType":[1],"Money":493200,"ItemFlag":[104,1041,1]},"Clothing":{"SkillSeids":[{"id":29,"value1":1}],"ItemSeids":[{"id":5,"value1":[953],"value2":[6]},{"id":5,"value1":[5],"value2":[61]}],"ItemID":18006,"Name":"辟尘太白袍","SeidDesc":"回合结束，获得【护罩】x61
+对自己造成6点真实伤害
+","ItemIcon":"LianQiIcon/MCS_fabao_pao_5_4","quality":4,"QPingZhi":2,"shuXingIdList":[86],"qualitydesc":"中品纯阳法宝","Desc":"不知何人将暴龙皮、暴龙心脏、天玄马心脏等材料炼制的中品纯阳法宝，此法袍铭刻白虎灵纹,灵力更加强大，但对使用者也要求更高。","AttackType":[5],"Money":613200,"ItemFlag":[204,2045,2]},"Ring":{"SkillSeids":[{"id":29,"value1":1}],"ItemSeids":[{"id":5,"value1":[953],"value2":[12]},{"id":17,"value1":[1],"value2":[9]}],"ItemID":18009,"Name":"丰茂斩星令","SeidDesc":"回合开始，敌方获得【中毒】x9
+对自己造成12点真实伤害
+","ItemIcon":"LianQiIcon/MCS_fabao_ling_1_4","quality":4,"QPingZhi":1,"shuXingIdList":[130],"qualitydesc":"下品纯阳法宝","Desc":"不知何人将木龙鳞、牙木铁、渊虾足等材料炼制的下品纯阳法宝，此令铭刻白虎灵纹,灵力更加强大，但对使用者也要求更高。","AttackType":[1],"Money":493200,"ItemFlag":[304,3041,3]}},"equipWeaponPianHao":[10,11,42,59],"equipWeapon2PianHao":[10,11,42,59],"equipClothingPianHao":[86,102,101],"equipRingPianHao":[130,131,132,138,146],"equipClothing":0,"equipRing":0,"LingGen":[5,40,25,5,5],"skills":[501,504,120,119,233,104,125,124,210],"JinDanType":[1,2],"staticSkills":[1039,1079,1084,1089,1005],"xiuLianSpeed":2433,"yuanying":1093,"MoneyType":5,"IsRefresh":0,"dropType":0,"canjiaPaiMai":0,"paimaifenzu":[1],"wudaoType":21,"XinQuType":302,"gudingjiage":0,"sellPercent":0,"useItem":{"5207":3,"5119":2,"5320":3,"5102":11},"NoteBook":{"10":[{"danyao":5207,"num":3,"time":"0001/12/1 0:00:00"},{"danyao":5320,"num":3,"time":"0032/7/1 0:00:00"}],"50":[{"npcname":"李楚","time":"0003/1/1 0:00:00"},{"npcname":"戚踏冥","time":"0005/10/1 0:00:00"},{"npcname":"李楚","time":"0006/7/1 0:00:00"},{"npcname":"常宛海","time":"0007/10/1 0:00:00"},{"npcname":"李楚","time":"0009/12/1 0:00:00"},{"npcname":"李楚","time":"0009/12/1 0:00:00"},{"npcname":"堵灵槐","time":"0011/4/1 0:00:00"},{"npcname":"莘水瑶","time":"0012/11/1 0:00:00"},{"npcname":"李楚","time":"0019/1/1 0:00:00"},{"npcname":"李楚","time":"0019/1/1 0:00:00"},{"npcname":"麻忘忧","time":"0023/12/1 0:00:00"},{"npcname":"李楚","time":"0025/9/1 0:00:00"},{"npcname":"李楚","time":"0028/8/1 0:00:00"},{"npcname":"李楚","time":"0030/11/1 0:00:00"},{"npcname":"鲁昭变","time":"0037/7/1 0:00:00"},{"npcname":"孔妙","time":"0040/8/1 0:00:00"},{"npcname":"李楚","time":"0046/9/1 0:00:00"},{"npcname":"百里润一","time":"0052/1/1 0:00:00"},{"npcname":"尚流素","time":"0052/4/1 0:00:00"}],"31":[{"danyao":5119,"num":2,"time":"0004/6/1 0:00:00"},{"danyao":5121,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5108,"num":2,"time":"0004/6/1 0:00:00"},{"danyao":5103,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5112,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5102,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5111,"num":3,"time":"0004/6/1 0:00:00"},{"danyao":5116,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5114,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5109,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5115,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5102,"num":3,"time":"0006/10/1 0:00:00"},{"danyao":5107,"num":2,"time":"0006/10/1 0:00:00"},{"danyao":5104,"num":2,"time":"0006/10/1 0:00:00"},{"danyao":5113,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5116,"num":4,"time":"0006/10/1 0:00:00"},{"danyao":5110,"num":2,"time":"0006/10/1 0:00:00"},{"danyao":5111,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5106,"num":2,"time":"0006/10/1 0:00:00"},{"danyao":5118,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5121,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5117,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5119,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5112,"num":2,"time":"0007/2/1 0:00:00"},{"danyao":5111,"num":2,"time":"0007/2/1 0:00:00"},{"danyao":5107,"num":2,"time":"0007/2/1 0:00:00"},{"danyao":5116,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5106,"num":3,"time":"0007/2/1 0:00:00"},{"danyao":5117,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5109,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5118,"num":3,"time":"0007/2/1 0:00:00"},{"danyao":5108,"num":2,"time":"0007/2/1 0:00:00"},{"danyao":5114,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5113,"num":3,"time":"0011/10/1 0:00:00"},{"danyao":5118,"num":3,"time":"0011/10/1 0:00:00"},{"danyao":5101,"num":4,"time":"0011/10/1 0:00:00"},{"danyao":5103,"num":3,"time":"0011/10/1 0:00:00"},{"danyao":5121,"num":1,"time":"0011/10/1 0:00:00"},{"danyao":5106,"num":4,"time":"0011/10/1 0:00:00"},{"danyao":5110,"num":2,"time":"0011/10/1 0:00:00"},{"danyao":5104,"num":2,"time":"0011/10/1 0:00:00"},{"danyao":5111,"num":1,"time":"0011/10/1 0:00:00"},{"danyao":5119,"num":1,"time":"0011/10/1 0:00:00"},{"danyao":5104,"num":4,"time":"0011/11/1 0:00:00"},{"danyao":5102,"num":2,"time":"0011/11/1 0:00:00"},{"danyao":5101,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5116,"num":2,"time":"0011/11/1 0:00:00"},{"danyao":5108,"num":2,"time":"0011/11/1 0:00:00"},{"danyao":5111,"num":3,"time":"0011/11/1 0:00:00"},{"danyao":5103,"num":2,"time":"0011/11/1 0:00:00"},{"danyao":5110,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5114,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5121,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5120,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5115,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5115,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5118,"num":2,"time":"0015/2/1 0:00:00"},{"danyao":5113,"num":3,"time":"0015/2/1 0:00:00"},{"danyao":5103,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5108,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5110,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5112,"num":2,"time":"0015/2/1 0:00:00"},{"danyao":5116,"num":3,"time":"0015/2/1 0:00:00"},{"danyao":5101,"num":2,"time":"0015/2/1 0:00:00"},{"danyao":5107,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5120,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5117,"num":2,"time":"0015/2/1 0:00:00"},{"danyao":5104,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5121,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5111,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5101,"num":2,"time":"0015/3/1 0:00:00"},{"danyao":5109,"num":3,"time":"0015/3/1 0:00:00"},{"danyao":5121,"num":3,"time":"0015/3/1 0:00:00"},{"danyao":5103,"num":2,"time":"0015/3/1 0:00:00"},{"danyao":5115,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5120,"num":3,"time":"0015/3/1 0:00:00"},{"danyao":5106,"num":3,"time":"0015/3/1 0:00:00"},{"danyao":5116,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5104,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5118,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5117,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5113,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5107,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5108,"num":3,"time":"0015/6/1 0:00:00"},{"danyao":5116,"num":2,"time":"0015/6/1 0:00:00"},{"danyao":5101,"num":2,"time":"0015/6/1 0:00:00"},{"danyao":5110,"num":4,"time":"0015/6/1 0:00:00"},{"danyao":5112,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5120,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5114,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5106,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5118,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5121,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5111,"num":2,"time":"0015/6/1 0:00:00"},{"danyao":5109,"num":2,"time":"0015/6/1 0:00:00"},{"danyao":5115,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5119,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5111,"num":2,"time":"0021/1/1 0:00:00"},{"danyao":5110,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5117,"num":2,"time":"0021/1/1 0:00:00"},{"danyao":5112,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5120,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5121,"num":2,"time":"0021/1/1 0:00:00"},{"danyao":5119,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5102,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5108,"num":2,"time":"0021/1/1 0:00:00"},{"danyao":5106,"num":4,"time":"0021/1/1 0:00:00"},{"danyao":5115,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5106,"num":1,"time":"0021/7/1 0:00:00"},{"danyao":5121,"num":3,"time":"0021/7/1 0:00:00"},{"danyao":5110,"num":2,"time":"0021/7/1 0:00:00"},{"danyao":5112,"num":2,"time":"0021/7/1 0:00:00"},{"danyao":5108,"num":4,"time":"0021/7/1 0:00:00"},{"danyao":5114,"num":2,"time":"0021/7/1 0:00:00"},{"danyao":5103,"num":3,"time":"0021/7/1 0:00:00"},{"danyao":5102,"num":1,"time":"0021/7/1 0:00:00"},{"danyao":5119,"num":1,"time":"0021/7/1 0:00:00"},{"danyao":5110,"num":2,"time":"0022/2/1 0:00:00"},{"danyao":5117,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5104,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5108,"num":2,"time":"0022/2/1 0:00:00"},{"danyao":5112,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5109,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5116,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5115,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5111,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5119,"num":3,"time":"0022/2/1 0:00:00"},{"danyao":5101,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5103,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5115,"num":2,"time":"0032/1/1 0:00:00"},{"danyao":5114,"num":2,"time":"0032/1/1 0:00:00"},{"danyao":5102,"num":2,"time":"0032/1/1 0:00:00"},{"danyao":5106,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5120,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5116,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5119,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5104,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5107,"num":2,"time":"0032/1/1 0:00:00"},{"danyao":5121,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5112,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5101,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5113,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5117,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5110,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5119,"num":3,"time":"0032/5/1 0:00:00"},{"danyao":5111,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5115,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5120,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5107,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5116,"num":2,"time":"0032/5/1 0:00:00"},{"danyao":5121,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5115,"num":2,"time":"0041/12/1 0:00:00"},{"danyao":5112,"num":2,"time":"0041/12/1 0:00:00"},{"danyao":5117,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5118,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5116,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5121,"num":3,"time":"0041/12/1 0:00:00"},{"danyao":5114,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5109,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5119,"num":2,"time":"0041/12/1 0:00:00"},{"danyao":5110,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5102,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5106,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5107,"num":3,"time":"0050/8/1 0:00:00"},{"danyao":5118,"num":2,"time":"0050/8/1 0:00:00"},{"danyao":5114,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5101,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5109,"num":5,"time":"0050/8/1 0:00:00"},{"danyao":5104,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5110,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5113,"num":3,"time":"0050/8/1 0:00:00"},{"danyao":5117,"num":2,"time":"0050/8/1 0:00:00"},{"danyao":5108,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5116,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5103,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5120,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5109,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5106,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5110,"num":2,"time":"0052/8/1 0:00:00"},{"danyao":5117,"num":2,"time":"0052/8/1 0:00:00"},{"danyao":5103,"num":2,"time":"0052/8/1 0:00:00"},{"danyao":5107,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5104,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5111,"num":3,"time":"0052/8/1 0:00:00"},{"danyao":5113,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5101,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5112,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5102,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5115,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5120,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5119,"num":1,"time":"0052/8/1 0:00:00"}],"7":[{"danyao":5119,"num":2,"time":"0004/7/1 0:00:00"}],"4":[{"danyao":5102,"num":1,"time":"0004/7/1 0:00:00"},{"danyao":5102,"num":3,"time":"0007/1/1 0:00:00"},{"danyao":5102,"num":2,"time":"0011/12/1 0:00:00"},{"danyao":5102,"num":1,"time":"0021/2/1 0:00:00"},{"danyao":5102,"num":1,"time":"0021/8/1 0:00:00"},{"danyao":5102,"num":2,"time":"0032/2/1 0:00:00"},{"danyao":5102,"num":1,"time":"0050/10/1 0:00:00"}],"33":[{"qiYuId":1,"time":"0010/1/1 0:00:00"},{"qiYuId":401,"time":"0016/1/1 0:00:00"},{"qiYuId":2,"time":"0024/6/1 0:00:00"},{"qiYuId":403,"item":6503,"num":1,"time":"0027/1/1 0:00:00"},{"qiYuId":402,"time":"0029/1/1 0:00:00"},{"qiYuId":401,"time":"0036/1/1 0:00:00"},{"qiYuId":9,"time":"0041/10/1 0:00:00"},{"qiYuId":1,"time":"0049/1/1 0:00:00"},{"qiYuId":2,"time":"0051/11/1 0:00:00"}],"60":[{"item":11401,"itemName":"","time":"0020/4/1 0:00:00"},{"item":11401,"itemName":"","time":"0030/3/1 0:00:00"}],"71":[{"rank":6,"time":"0050/01/21"}]},"wuDaoSkillList":[201,212,221,232,241,901,911,921,701,711,721,2001],"wuDaoJson":{"1":{"id":1,"level":3,"exp":30252},"2":{"id":2,"level":5,"exp":227520},"3":{"id":3,"level":3,"exp":30000},"4":{"id":4,"level":3,"exp":30252},"5":{"id":5,"level":3,"exp":30126},"6":{"id":6,"level":3,"exp":30130},"7":{"id":7,"level":3,"exp":30000},"8":{"id":8,"level":1,"exp":1260},"9":{"id":9,"level":3,"exp":62400},"10":{"id":10,"level":1,"exp":1130},"21":{"id":21,"level":1,"exp":7961},"22":{"id":22,"level":1,"exp":1000}},"ziZhi":81,"XingGe":6,"NPCTag":2,"shouYuan":1041,"wuXin":81,"HP":2594,"GongXian":36,"QingFen":500,"WuDaoValue":392043,"WuDaoValueLevel":29,"EWWuDaoDian":29,"Status":{"StatusId":1,"StatusTime":59996},"age":5901,"ActionId":102,"IsNeedHelp":false,"isTanChaUnlock":false,"exp":10462801}
+
+[2023/3/7 2:21:59]发起者:
+内容:System.NullReferenceException: Object reference not set to an instance of an object
+  at CmdGetNPCJson.OnEnter () [0x00097] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 2:21:59]发起者:
+内容:获取NPCJson异常，NPCID:20297，要获取的变量:LevelStr(String)，JSON数据:{"id":20297,"Name":"","IsTag":false,"FirstName":"","face":0,"fightFace":0,"isImportant":true,"IsKnowPlayer":false,"CyList":[],"TuPoMiShu":[],"Title":"竹山宗大长老","ChengHaoID":8,"Type":1,"LiuPai":1,"MenPai":1,"AvatarType":1,"Level":10,"BindingNpcID":202,"SexType":2,"dunSu":48,"shengShi":55,"shaQi":0,"NextExp":19440000,"equipWeapon":0,"equipList":{"Weapon1":{"SkillSeids":[{"id":29,"value1":1},{"id":80,"value1":[953],"value2":[24]},{"id":79,"value1":[8],"value2":[11]}],"ItemID":18001,"Name":"木氤胜心剑","SeidDesc":"敌方获得【缠绕】x11
+对自己造成24点真实伤害
+","ItemIcon":"LianQiIcon/MCS_fabao_jian_1_4","quality":4,"QPingZhi":1,"shuXingIdList":[10],"qualitydesc":"下品纯阳法宝","Desc":"不知何人将吞云蟒之骨、木龙鳞、木龙鳞等材料炼制的下品纯阳法宝，此剑铭刻白虎灵纹,灵力更加强大，但对使用者也要求更高。","AttackType":[1],"Money":493200,"ItemFlag":[104,1041,1]},"Clothing":{"SkillSeids":[{"id":29,"value1":1}],"ItemSeids":[{"id":5,"value1":[953],"value2":[6]},{"id":5,"value1":[5],"value2":[61]}],"ItemID":18006,"Name":"辟尘太白袍","SeidDesc":"回合结束，获得【护罩】x61
+对自己造成6点真实伤害
+","ItemIcon":"LianQiIcon/MCS_fabao_pao_5_4","quality":4,"QPingZhi":2,"shuXingIdList":[86],"qualitydesc":"中品纯阳法宝","Desc":"不知何人将暴龙皮、暴龙心脏、天玄马心脏等材料炼制的中品纯阳法宝，此法袍铭刻白虎灵纹,灵力更加强大，但对使用者也要求更高。","AttackType":[5],"Money":613200,"ItemFlag":[204,2045,2]},"Ring":{"SkillSeids":[{"id":29,"value1":1}],"ItemSeids":[{"id":5,"value1":[953],"value2":[12]},{"id":17,"value1":[1],"value2":[9]}],"ItemID":18009,"Name":"丰茂斩星令","SeidDesc":"回合开始，敌方获得【中毒】x9
+对自己造成12点真实伤害
+","ItemIcon":"LianQiIcon/MCS_fabao_ling_1_4","quality":4,"QPingZhi":1,"shuXingIdList":[130],"qualitydesc":"下品纯阳法宝","Desc":"不知何人将木龙鳞、牙木铁、渊虾足等材料炼制的下品纯阳法宝，此令铭刻白虎灵纹,灵力更加强大，但对使用者也要求更高。","AttackType":[1],"Money":493200,"ItemFlag":[304,3041,3]}},"equipWeaponPianHao":[10,11,42,59],"equipWeapon2PianHao":[10,11,42,59],"equipClothingPianHao":[86,102,101],"equipRingPianHao":[130,131,132,138,146],"equipClothing":0,"equipRing":0,"LingGen":[5,40,25,5,5],"skills":[501,504,120,119,233,104,125,124,210],"JinDanType":[1,2],"staticSkills":[1039,1079,1084,1089,1005],"xiuLianSpeed":2433,"yuanying":1093,"MoneyType":5,"IsRefresh":0,"dropType":0,"canjiaPaiMai":0,"paimaifenzu":[1],"wudaoType":21,"XinQuType":302,"gudingjiage":0,"sellPercent":0,"useItem":{"5207":3,"5119":2,"5320":3,"5102":11},"NoteBook":{"10":[{"danyao":5207,"num":3,"time":"0001/12/1 0:00:00"},{"danyao":5320,"num":3,"time":"0032/7/1 0:00:00"}],"50":[{"npcname":"李楚","time":"0003/1/1 0:00:00"},{"npcname":"戚踏冥","time":"0005/10/1 0:00:00"},{"npcname":"李楚","time":"0006/7/1 0:00:00"},{"npcname":"常宛海","time":"0007/10/1 0:00:00"},{"npcname":"李楚","time":"0009/12/1 0:00:00"},{"npcname":"李楚","time":"0009/12/1 0:00:00"},{"npcname":"堵灵槐","time":"0011/4/1 0:00:00"},{"npcname":"莘水瑶","time":"0012/11/1 0:00:00"},{"npcname":"李楚","time":"0019/1/1 0:00:00"},{"npcname":"李楚","time":"0019/1/1 0:00:00"},{"npcname":"麻忘忧","time":"0023/12/1 0:00:00"},{"npcname":"李楚","time":"0025/9/1 0:00:00"},{"npcname":"李楚","time":"0028/8/1 0:00:00"},{"npcname":"李楚","time":"0030/11/1 0:00:00"},{"npcname":"鲁昭变","time":"0037/7/1 0:00:00"},{"npcname":"孔妙","time":"0040/8/1 0:00:00"},{"npcname":"李楚","time":"0046/9/1 0:00:00"},{"npcname":"百里润一","time":"0052/1/1 0:00:00"},{"npcname":"尚流素","time":"0052/4/1 0:00:00"}],"31":[{"danyao":5119,"num":2,"time":"0004/6/1 0:00:00"},{"danyao":5121,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5108,"num":2,"time":"0004/6/1 0:00:00"},{"danyao":5103,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5112,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5102,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5111,"num":3,"time":"0004/6/1 0:00:00"},{"danyao":5116,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5114,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5109,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5115,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5102,"num":3,"time":"0006/10/1 0:00:00"},{"danyao":5107,"num":2,"time":"0006/10/1 0:00:00"},{"danyao":5104,"num":2,"time":"0006/10/1 0:00:00"},{"danyao":5113,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5116,"num":4,"time":"0006/10/1 0:00:00"},{"danyao":5110,"num":2,"time":"0006/10/1 0:00:00"},{"danyao":5111,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5106,"num":2,"time":"0006/10/1 0:00:00"},{"danyao":5118,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5121,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5117,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5119,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5112,"num":2,"time":"0007/2/1 0:00:00"},{"danyao":5111,"num":2,"time":"0007/2/1 0:00:00"},{"danyao":5107,"num":2,"time":"0007/2/1 0:00:00"},{"danyao":5116,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5106,"num":3,"time":"0007/2/1 0:00:00"},{"danyao":5117,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5109,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5118,"num":3,"time":"0007/2/1 0:00:00"},{"danyao":5108,"num":2,"time":"0007/2/1 0:00:00"},{"danyao":5114,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5113,"num":3,"time":"0011/10/1 0:00:00"},{"danyao":5118,"num":3,"time":"0011/10/1 0:00:00"},{"danyao":5101,"num":4,"time":"0011/10/1 0:00:00"},{"danyao":5103,"num":3,"time":"0011/10/1 0:00:00"},{"danyao":5121,"num":1,"time":"0011/10/1 0:00:00"},{"danyao":5106,"num":4,"time":"0011/10/1 0:00:00"},{"danyao":5110,"num":2,"time":"0011/10/1 0:00:00"},{"danyao":5104,"num":2,"time":"0011/10/1 0:00:00"},{"danyao":5111,"num":1,"time":"0011/10/1 0:00:00"},{"danyao":5119,"num":1,"time":"0011/10/1 0:00:00"},{"danyao":5104,"num":4,"time":"0011/11/1 0:00:00"},{"danyao":5102,"num":2,"time":"0011/11/1 0:00:00"},{"danyao":5101,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5116,"num":2,"time":"0011/11/1 0:00:00"},{"danyao":5108,"num":2,"time":"0011/11/1 0:00:00"},{"danyao":5111,"num":3,"time":"0011/11/1 0:00:00"},{"danyao":5103,"num":2,"time":"0011/11/1 0:00:00"},{"danyao":5110,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5114,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5121,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5120,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5115,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5115,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5118,"num":2,"time":"0015/2/1 0:00:00"},{"danyao":5113,"num":3,"time":"0015/2/1 0:00:00"},{"danyao":5103,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5108,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5110,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5112,"num":2,"time":"0015/2/1 0:00:00"},{"danyao":5116,"num":3,"time":"0015/2/1 0:00:00"},{"danyao":5101,"num":2,"time":"0015/2/1 0:00:00"},{"danyao":5107,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5120,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5117,"num":2,"time":"0015/2/1 0:00:00"},{"danyao":5104,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5121,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5111,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5101,"num":2,"time":"0015/3/1 0:00:00"},{"danyao":5109,"num":3,"time":"0015/3/1 0:00:00"},{"danyao":5121,"num":3,"time":"0015/3/1 0:00:00"},{"danyao":5103,"num":2,"time":"0015/3/1 0:00:00"},{"danyao":5115,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5120,"num":3,"time":"0015/3/1 0:00:00"},{"danyao":5106,"num":3,"time":"0015/3/1 0:00:00"},{"danyao":5116,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5104,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5118,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5117,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5113,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5107,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5108,"num":3,"time":"0015/6/1 0:00:00"},{"danyao":5116,"num":2,"time":"0015/6/1 0:00:00"},{"danyao":5101,"num":2,"time":"0015/6/1 0:00:00"},{"danyao":5110,"num":4,"time":"0015/6/1 0:00:00"},{"danyao":5112,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5120,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5114,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5106,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5118,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5121,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5111,"num":2,"time":"0015/6/1 0:00:00"},{"danyao":5109,"num":2,"time":"0015/6/1 0:00:00"},{"danyao":5115,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5119,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5111,"num":2,"time":"0021/1/1 0:00:00"},{"danyao":5110,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5117,"num":2,"time":"0021/1/1 0:00:00"},{"danyao":5112,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5120,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5121,"num":2,"time":"0021/1/1 0:00:00"},{"danyao":5119,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5102,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5108,"num":2,"time":"0021/1/1 0:00:00"},{"danyao":5106,"num":4,"time":"0021/1/1 0:00:00"},{"danyao":5115,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5106,"num":1,"time":"0021/7/1 0:00:00"},{"danyao":5121,"num":3,"time":"0021/7/1 0:00:00"},{"danyao":5110,"num":2,"time":"0021/7/1 0:00:00"},{"danyao":5112,"num":2,"time":"0021/7/1 0:00:00"},{"danyao":5108,"num":4,"time":"0021/7/1 0:00:00"},{"danyao":5114,"num":2,"time":"0021/7/1 0:00:00"},{"danyao":5103,"num":3,"time":"0021/7/1 0:00:00"},{"danyao":5102,"num":1,"time":"0021/7/1 0:00:00"},{"danyao":5119,"num":1,"time":"0021/7/1 0:00:00"},{"danyao":5110,"num":2,"time":"0022/2/1 0:00:00"},{"danyao":5117,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5104,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5108,"num":2,"time":"0022/2/1 0:00:00"},{"danyao":5112,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5109,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5116,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5115,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5111,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5119,"num":3,"time":"0022/2/1 0:00:00"},{"danyao":5101,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5103,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5115,"num":2,"time":"0032/1/1 0:00:00"},{"danyao":5114,"num":2,"time":"0032/1/1 0:00:00"},{"danyao":5102,"num":2,"time":"0032/1/1 0:00:00"},{"danyao":5106,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5120,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5116,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5119,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5104,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5107,"num":2,"time":"0032/1/1 0:00:00"},{"danyao":5121,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5112,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5101,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5113,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5117,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5110,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5119,"num":3,"time":"0032/5/1 0:00:00"},{"danyao":5111,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5115,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5120,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5107,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5116,"num":2,"time":"0032/5/1 0:00:00"},{"danyao":5121,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5115,"num":2,"time":"0041/12/1 0:00:00"},{"danyao":5112,"num":2,"time":"0041/12/1 0:00:00"},{"danyao":5117,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5118,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5116,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5121,"num":3,"time":"0041/12/1 0:00:00"},{"danyao":5114,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5109,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5119,"num":2,"time":"0041/12/1 0:00:00"},{"danyao":5110,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5102,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5106,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5107,"num":3,"time":"0050/8/1 0:00:00"},{"danyao":5118,"num":2,"time":"0050/8/1 0:00:00"},{"danyao":5114,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5101,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5109,"num":5,"time":"0050/8/1 0:00:00"},{"danyao":5104,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5110,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5113,"num":3,"time":"0050/8/1 0:00:00"},{"danyao":5117,"num":2,"time":"0050/8/1 0:00:00"},{"danyao":5108,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5116,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5103,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5120,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5109,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5106,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5110,"num":2,"time":"0052/8/1 0:00:00"},{"danyao":5117,"num":2,"time":"0052/8/1 0:00:00"},{"danyao":5103,"num":2,"time":"0052/8/1 0:00:00"},{"danyao":5107,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5104,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5111,"num":3,"time":"0052/8/1 0:00:00"},{"danyao":5113,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5101,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5112,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5102,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5115,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5120,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5119,"num":1,"time":"0052/8/1 0:00:00"}],"7":[{"danyao":5119,"num":2,"time":"0004/7/1 0:00:00"}],"4":[{"danyao":5102,"num":1,"time":"0004/7/1 0:00:00"},{"danyao":5102,"num":3,"time":"0007/1/1 0:00:00"},{"danyao":5102,"num":2,"time":"0011/12/1 0:00:00"},{"danyao":5102,"num":1,"time":"0021/2/1 0:00:00"},{"danyao":5102,"num":1,"time":"0021/8/1 0:00:00"},{"danyao":5102,"num":2,"time":"0032/2/1 0:00:00"},{"danyao":5102,"num":1,"time":"0050/10/1 0:00:00"}],"33":[{"qiYuId":1,"time":"0010/1/1 0:00:00"},{"qiYuId":401,"time":"0016/1/1 0:00:00"},{"qiYuId":2,"time":"0024/6/1 0:00:00"},{"qiYuId":403,"item":6503,"num":1,"time":"0027/1/1 0:00:00"},{"qiYuId":402,"time":"0029/1/1 0:00:00"},{"qiYuId":401,"time":"0036/1/1 0:00:00"},{"qiYuId":9,"time":"0041/10/1 0:00:00"},{"qiYuId":1,"time":"0049/1/1 0:00:00"},{"qiYuId":2,"time":"0051/11/1 0:00:00"}],"60":[{"item":11401,"itemName":"","time":"0020/4/1 0:00:00"},{"item":11401,"itemName":"","time":"0030/3/1 0:00:00"}],"71":[{"rank":6,"time":"0050/01/21"}]},"wuDaoSkillList":[201,212,221,232,241,901,911,921,701,711,721,2001],"wuDaoJson":{"1":{"id":1,"level":3,"exp":30252},"2":{"id":2,"level":5,"exp":227520},"3":{"id":3,"level":3,"exp":30000},"4":{"id":4,"level":3,"exp":30252},"5":{"id":5,"level":3,"exp":30126},"6":{"id":6,"level":3,"exp":30130},"7":{"id":7,"level":3,"exp":30000},"8":{"id":8,"level":1,"exp":1260},"9":{"id":9,"level":3,"exp":62400},"10":{"id":10,"level":1,"exp":1130},"21":{"id":21,"level":1,"exp":7961},"22":{"id":22,"level":1,"exp":1000}},"ziZhi":81,"XingGe":6,"NPCTag":2,"shouYuan":1041,"wuXin":81,"HP":2594,"GongXian":36,"QingFen":500,"WuDaoValue":392043,"WuDaoValueLevel":29,"EWWuDaoDian":29,"Status":{"StatusId":1,"StatusTime":59996},"age":5901,"ActionId":102,"IsNeedHelp":false,"isTanChaUnlock":false,"exp":10462801}
+
+[2023/3/7 2:22:12]发起者:
+内容:System.NullReferenceException: Object reference not set to an instance of an object
+  at CmdGetNPCJson.OnEnter () [0x00097] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 2:22:12]发起者:
+内容:获取NPCJson异常，NPCID:20297，要获取的变量:LevelStr(String)，JSON数据:{"id":20297,"Name":"","IsTag":false,"FirstName":"","face":0,"fightFace":0,"isImportant":true,"IsKnowPlayer":false,"CyList":[],"TuPoMiShu":[],"Title":"竹山宗大长老","ChengHaoID":8,"Type":1,"LiuPai":1,"MenPai":1,"AvatarType":1,"Level":10,"BindingNpcID":202,"SexType":2,"dunSu":48,"shengShi":55,"shaQi":0,"NextExp":19440000,"equipWeapon":0,"equipList":{"Weapon1":{"SkillSeids":[{"id":29,"value1":1},{"id":80,"value1":[953],"value2":[24]},{"id":79,"value1":[8],"value2":[11]}],"ItemID":18001,"Name":"木氤胜心剑","SeidDesc":"敌方获得【缠绕】x11
+对自己造成24点真实伤害
+","ItemIcon":"LianQiIcon/MCS_fabao_jian_1_4","quality":4,"QPingZhi":1,"shuXingIdList":[10],"qualitydesc":"下品纯阳法宝","Desc":"不知何人将吞云蟒之骨、木龙鳞、木龙鳞等材料炼制的下品纯阳法宝，此剑铭刻白虎灵纹,灵力更加强大，但对使用者也要求更高。","AttackType":[1],"Money":493200,"ItemFlag":[104,1041,1]},"Clothing":{"SkillSeids":[{"id":29,"value1":1}],"ItemSeids":[{"id":5,"value1":[953],"value2":[6]},{"id":5,"value1":[5],"value2":[61]}],"ItemID":18006,"Name":"辟尘太白袍","SeidDesc":"回合结束，获得【护罩】x61
+对自己造成6点真实伤害
+","ItemIcon":"LianQiIcon/MCS_fabao_pao_5_4","quality":4,"QPingZhi":2,"shuXingIdList":[86],"qualitydesc":"中品纯阳法宝","Desc":"不知何人将暴龙皮、暴龙心脏、天玄马心脏等材料炼制的中品纯阳法宝，此法袍铭刻白虎灵纹,灵力更加强大，但对使用者也要求更高。","AttackType":[5],"Money":613200,"ItemFlag":[204,2045,2]},"Ring":{"SkillSeids":[{"id":29,"value1":1}],"ItemSeids":[{"id":5,"value1":[953],"value2":[12]},{"id":17,"value1":[1],"value2":[9]}],"ItemID":18009,"Name":"丰茂斩星令","SeidDesc":"回合开始，敌方获得【中毒】x9
+对自己造成12点真实伤害
+","ItemIcon":"LianQiIcon/MCS_fabao_ling_1_4","quality":4,"QPingZhi":1,"shuXingIdList":[130],"qualitydesc":"下品纯阳法宝","Desc":"不知何人将木龙鳞、牙木铁、渊虾足等材料炼制的下品纯阳法宝，此令铭刻白虎灵纹,灵力更加强大，但对使用者也要求更高。","AttackType":[1],"Money":493200,"ItemFlag":[304,3041,3]}},"equipWeaponPianHao":[10,11,42,59],"equipWeapon2PianHao":[10,11,42,59],"equipClothingPianHao":[86,102,101],"equipRingPianHao":[130,131,132,138,146],"equipClothing":0,"equipRing":0,"LingGen":[5,40,25,5,5],"skills":[501,504,120,119,233,104,125,124,210],"JinDanType":[1,2],"staticSkills":[1039,1079,1084,1089,1005],"xiuLianSpeed":2433,"yuanying":1093,"MoneyType":5,"IsRefresh":0,"dropType":0,"canjiaPaiMai":0,"paimaifenzu":[1],"wudaoType":21,"XinQuType":302,"gudingjiage":0,"sellPercent":0,"useItem":{"5207":3,"5119":2,"5320":3,"5102":11},"NoteBook":{"10":[{"danyao":5207,"num":3,"time":"0001/12/1 0:00:00"},{"danyao":5320,"num":3,"time":"0032/7/1 0:00:00"}],"50":[{"npcname":"李楚","time":"0003/1/1 0:00:00"},{"npcname":"戚踏冥","time":"0005/10/1 0:00:00"},{"npcname":"李楚","time":"0006/7/1 0:00:00"},{"npcname":"常宛海","time":"0007/10/1 0:00:00"},{"npcname":"李楚","time":"0009/12/1 0:00:00"},{"npcname":"李楚","time":"0009/12/1 0:00:00"},{"npcname":"堵灵槐","time":"0011/4/1 0:00:00"},{"npcname":"莘水瑶","time":"0012/11/1 0:00:00"},{"npcname":"李楚","time":"0019/1/1 0:00:00"},{"npcname":"李楚","time":"0019/1/1 0:00:00"},{"npcname":"麻忘忧","time":"0023/12/1 0:00:00"},{"npcname":"李楚","time":"0025/9/1 0:00:00"},{"npcname":"李楚","time":"0028/8/1 0:00:00"},{"npcname":"李楚","time":"0030/11/1 0:00:00"},{"npcname":"鲁昭变","time":"0037/7/1 0:00:00"},{"npcname":"孔妙","time":"0040/8/1 0:00:00"},{"npcname":"李楚","time":"0046/9/1 0:00:00"},{"npcname":"百里润一","time":"0052/1/1 0:00:00"},{"npcname":"尚流素","time":"0052/4/1 0:00:00"}],"31":[{"danyao":5119,"num":2,"time":"0004/6/1 0:00:00"},{"danyao":5121,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5108,"num":2,"time":"0004/6/1 0:00:00"},{"danyao":5103,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5112,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5102,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5111,"num":3,"time":"0004/6/1 0:00:00"},{"danyao":5116,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5114,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5109,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5115,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5102,"num":3,"time":"0006/10/1 0:00:00"},{"danyao":5107,"num":2,"time":"0006/10/1 0:00:00"},{"danyao":5104,"num":2,"time":"0006/10/1 0:00:00"},{"danyao":5113,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5116,"num":4,"time":"0006/10/1 0:00:00"},{"danyao":5110,"num":2,"time":"0006/10/1 0:00:00"},{"danyao":5111,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5106,"num":2,"time":"0006/10/1 0:00:00"},{"danyao":5118,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5121,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5117,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5119,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5112,"num":2,"time":"0007/2/1 0:00:00"},{"danyao":5111,"num":2,"time":"0007/2/1 0:00:00"},{"danyao":5107,"num":2,"time":"0007/2/1 0:00:00"},{"danyao":5116,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5106,"num":3,"time":"0007/2/1 0:00:00"},{"danyao":5117,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5109,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5118,"num":3,"time":"0007/2/1 0:00:00"},{"danyao":5108,"num":2,"time":"0007/2/1 0:00:00"},{"danyao":5114,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5113,"num":3,"time":"0011/10/1 0:00:00"},{"danyao":5118,"num":3,"time":"0011/10/1 0:00:00"},{"danyao":5101,"num":4,"time":"0011/10/1 0:00:00"},{"danyao":5103,"num":3,"time":"0011/10/1 0:00:00"},{"danyao":5121,"num":1,"time":"0011/10/1 0:00:00"},{"danyao":5106,"num":4,"time":"0011/10/1 0:00:00"},{"danyao":5110,"num":2,"time":"0011/10/1 0:00:00"},{"danyao":5104,"num":2,"time":"0011/10/1 0:00:00"},{"danyao":5111,"num":1,"time":"0011/10/1 0:00:00"},{"danyao":5119,"num":1,"time":"0011/10/1 0:00:00"},{"danyao":5104,"num":4,"time":"0011/11/1 0:00:00"},{"danyao":5102,"num":2,"time":"0011/11/1 0:00:00"},{"danyao":5101,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5116,"num":2,"time":"0011/11/1 0:00:00"},{"danyao":5108,"num":2,"time":"0011/11/1 0:00:00"},{"danyao":5111,"num":3,"time":"0011/11/1 0:00:00"},{"danyao":5103,"num":2,"time":"0011/11/1 0:00:00"},{"danyao":5110,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5114,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5121,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5120,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5115,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5115,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5118,"num":2,"time":"0015/2/1 0:00:00"},{"danyao":5113,"num":3,"time":"0015/2/1 0:00:00"},{"danyao":5103,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5108,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5110,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5112,"num":2,"time":"0015/2/1 0:00:00"},{"danyao":5116,"num":3,"time":"0015/2/1 0:00:00"},{"danyao":5101,"num":2,"time":"0015/2/1 0:00:00"},{"danyao":5107,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5120,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5117,"num":2,"time":"0015/2/1 0:00:00"},{"danyao":5104,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5121,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5111,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5101,"num":2,"time":"0015/3/1 0:00:00"},{"danyao":5109,"num":3,"time":"0015/3/1 0:00:00"},{"danyao":5121,"num":3,"time":"0015/3/1 0:00:00"},{"danyao":5103,"num":2,"time":"0015/3/1 0:00:00"},{"danyao":5115,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5120,"num":3,"time":"0015/3/1 0:00:00"},{"danyao":5106,"num":3,"time":"0015/3/1 0:00:00"},{"danyao":5116,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5104,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5118,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5117,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5113,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5107,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5108,"num":3,"time":"0015/6/1 0:00:00"},{"danyao":5116,"num":2,"time":"0015/6/1 0:00:00"},{"danyao":5101,"num":2,"time":"0015/6/1 0:00:00"},{"danyao":5110,"num":4,"time":"0015/6/1 0:00:00"},{"danyao":5112,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5120,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5114,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5106,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5118,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5121,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5111,"num":2,"time":"0015/6/1 0:00:00"},{"danyao":5109,"num":2,"time":"0015/6/1 0:00:00"},{"danyao":5115,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5119,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5111,"num":2,"time":"0021/1/1 0:00:00"},{"danyao":5110,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5117,"num":2,"time":"0021/1/1 0:00:00"},{"danyao":5112,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5120,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5121,"num":2,"time":"0021/1/1 0:00:00"},{"danyao":5119,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5102,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5108,"num":2,"time":"0021/1/1 0:00:00"},{"danyao":5106,"num":4,"time":"0021/1/1 0:00:00"},{"danyao":5115,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5106,"num":1,"time":"0021/7/1 0:00:00"},{"danyao":5121,"num":3,"time":"0021/7/1 0:00:00"},{"danyao":5110,"num":2,"time":"0021/7/1 0:00:00"},{"danyao":5112,"num":2,"time":"0021/7/1 0:00:00"},{"danyao":5108,"num":4,"time":"0021/7/1 0:00:00"},{"danyao":5114,"num":2,"time":"0021/7/1 0:00:00"},{"danyao":5103,"num":3,"time":"0021/7/1 0:00:00"},{"danyao":5102,"num":1,"time":"0021/7/1 0:00:00"},{"danyao":5119,"num":1,"time":"0021/7/1 0:00:00"},{"danyao":5110,"num":2,"time":"0022/2/1 0:00:00"},{"danyao":5117,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5104,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5108,"num":2,"time":"0022/2/1 0:00:00"},{"danyao":5112,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5109,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5116,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5115,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5111,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5119,"num":3,"time":"0022/2/1 0:00:00"},{"danyao":5101,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5103,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5115,"num":2,"time":"0032/1/1 0:00:00"},{"danyao":5114,"num":2,"time":"0032/1/1 0:00:00"},{"danyao":5102,"num":2,"time":"0032/1/1 0:00:00"},{"danyao":5106,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5120,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5116,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5119,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5104,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5107,"num":2,"time":"0032/1/1 0:00:00"},{"danyao":5121,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5112,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5101,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5113,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5117,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5110,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5119,"num":3,"time":"0032/5/1 0:00:00"},{"danyao":5111,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5115,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5120,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5107,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5116,"num":2,"time":"0032/5/1 0:00:00"},{"danyao":5121,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5115,"num":2,"time":"0041/12/1 0:00:00"},{"danyao":5112,"num":2,"time":"0041/12/1 0:00:00"},{"danyao":5117,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5118,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5116,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5121,"num":3,"time":"0041/12/1 0:00:00"},{"danyao":5114,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5109,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5119,"num":2,"time":"0041/12/1 0:00:00"},{"danyao":5110,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5102,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5106,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5107,"num":3,"time":"0050/8/1 0:00:00"},{"danyao":5118,"num":2,"time":"0050/8/1 0:00:00"},{"danyao":5114,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5101,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5109,"num":5,"time":"0050/8/1 0:00:00"},{"danyao":5104,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5110,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5113,"num":3,"time":"0050/8/1 0:00:00"},{"danyao":5117,"num":2,"time":"0050/8/1 0:00:00"},{"danyao":5108,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5116,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5103,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5120,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5109,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5106,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5110,"num":2,"time":"0052/8/1 0:00:00"},{"danyao":5117,"num":2,"time":"0052/8/1 0:00:00"},{"danyao":5103,"num":2,"time":"0052/8/1 0:00:00"},{"danyao":5107,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5104,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5111,"num":3,"time":"0052/8/1 0:00:00"},{"danyao":5113,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5101,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5112,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5102,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5115,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5120,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5119,"num":1,"time":"0052/8/1 0:00:00"}],"7":[{"danyao":5119,"num":2,"time":"0004/7/1 0:00:00"}],"4":[{"danyao":5102,"num":1,"time":"0004/7/1 0:00:00"},{"danyao":5102,"num":3,"time":"0007/1/1 0:00:00"},{"danyao":5102,"num":2,"time":"0011/12/1 0:00:00"},{"danyao":5102,"num":1,"time":"0021/2/1 0:00:00"},{"danyao":5102,"num":1,"time":"0021/8/1 0:00:00"},{"danyao":5102,"num":2,"time":"0032/2/1 0:00:00"},{"danyao":5102,"num":1,"time":"0050/10/1 0:00:00"}],"33":[{"qiYuId":1,"time":"0010/1/1 0:00:00"},{"qiYuId":401,"time":"0016/1/1 0:00:00"},{"qiYuId":2,"time":"0024/6/1 0:00:00"},{"qiYuId":403,"item":6503,"num":1,"time":"0027/1/1 0:00:00"},{"qiYuId":402,"time":"0029/1/1 0:00:00"},{"qiYuId":401,"time":"0036/1/1 0:00:00"},{"qiYuId":9,"time":"0041/10/1 0:00:00"},{"qiYuId":1,"time":"0049/1/1 0:00:00"},{"qiYuId":2,"time":"0051/11/1 0:00:00"}],"60":[{"item":11401,"itemName":"","time":"0020/4/1 0:00:00"},{"item":11401,"itemName":"","time":"0030/3/1 0:00:00"}],"71":[{"rank":6,"time":"0050/01/21"}]},"wuDaoSkillList":[201,212,221,232,241,901,911,921,701,711,721,2001],"wuDaoJson":{"1":{"id":1,"level":3,"exp":30252},"2":{"id":2,"level":5,"exp":227520},"3":{"id":3,"level":3,"exp":30000},"4":{"id":4,"level":3,"exp":30252},"5":{"id":5,"level":3,"exp":30126},"6":{"id":6,"level":3,"exp":30130},"7":{"id":7,"level":3,"exp":30000},"8":{"id":8,"level":1,"exp":1260},"9":{"id":9,"level":3,"exp":62400},"10":{"id":10,"level":1,"exp":1130},"21":{"id":21,"level":1,"exp":7961},"22":{"id":22,"level":1,"exp":1000}},"ziZhi":81,"XingGe":6,"NPCTag":2,"shouYuan":1041,"wuXin":81,"HP":2594,"GongXian":36,"QingFen":500,"WuDaoValue":392043,"WuDaoValueLevel":29,"EWWuDaoDian":29,"Status":{"StatusId":1,"StatusTime":59996},"age":5901,"ActionId":102,"IsNeedHelp":false,"isTanChaUnlock":false,"exp":10462801}
+
+[2023/3/7 23:06:15]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:06:15]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:06:16]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:06:16]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:06:33]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:06:33]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:06:34]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:06:34]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:07:20]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:07:20]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:07:21]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:07:21]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:07:34]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:07:34]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:07:34]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:07:34]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:07:51]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:07:51]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:07:52]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:07:52]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:08:05]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:08:05]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:08:05]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:08:05]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:08:17]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:08:17]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:08:18]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:08:18]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:08:32]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:08:32]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:08:32]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:08:32]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:08:44]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:08:44]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:08:44]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:08:44]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:08:56]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:08:56]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:08:57]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:08:57]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:09:12]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:09:12]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:09:13]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:09:13]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:09:28]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:09:28]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:09:29]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:09:29]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:09:42]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:09:42]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:09:43]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:09:43]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:09:58]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:09:58]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:09:58]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:09:58]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:10:10]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:10:10]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:10:11]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:10:11]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:10:26]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:10:26]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:10:27]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:10:27]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:10:39]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:10:39]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:10:40]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:10:40]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:10:49]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:10:49]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:10:50]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:10:50]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:11:04]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:11:04]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:11:04]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:11:04]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:11:16]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:11:16]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:11:17]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:11:17]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:11:31]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:11:31]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:11:31]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:11:31]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:11:43]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:11:43]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:11:44]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:11:44]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:11:56]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:11:56]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:11:57]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:11:57]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:12:11]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:12:11]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:12:11]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:12:11]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:12:24]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:12:24]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:12:24]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:12:24]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:12:35]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:12:35]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:12:36]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:12:36]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:15:27]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:15:27]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:15:28]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:15:28]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:15:43]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:15:43]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:15:44]发起者:
+内容:获取NPC数据时出错，目标的ID:20284，错误信息:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at UINPCData.RefreshData () [0x000e5] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/7 23:15:44]发起者:
+内容:设置形象时出错，ID:20284，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/8 0:14:03]发起者:
+内容:嗜魂幡 id:1909没有配FaBaoType
+
+[2023/3/8 0:29:23]发起者:
+内容:嗜魂幡 id:1909没有配FaBaoType
+
+[2023/3/8 10:27:05]发起者:
+内容:锁魂幡 id:114没有配FaBaoType
+
+[2023/3/8 10:52:22]发起者:
+内容:嗜魂幡 id:1909没有配FaBaoType
+
+[2023/3/8 11:27:07]发起者:
+内容:嗜魂幡 id:1909没有配FaBaoType
+
+[2023/3/9 0:02:52]发起者:
+内容:fungus遇到空command，已断开循环，当前场景F15，Flowchart:89，Block:AvatarIn
+当前block含有2个command，当前处于1
+
+[2023/3/9 0:03:24]发起者:
+内容:fungus遇到空command，已断开循环，当前场景F15，Flowchart:89，Block:AvatarIn
+当前block含有2个command，当前处于1
+
+[2023/3/9 0:05:12]发起者:
+内容:fungus遇到空command，已断开循环，当前场景F15，Flowchart:89，Block:AvatarIn
+当前block含有2个command，当前处于1
+
+[2023/3/9 0:06:43]发起者:
+内容:fungus遇到空command，已断开循环，当前场景F15，Flowchart:89，Block:AvatarIn
+当前block含有2个command，当前处于1
+
+[2023/3/9 16:32:58]发起者:
+内容:System.NullReferenceException: Object reference not set to an instance of an object
+  at CmdGetNPCJson.OnEnter () [0x00097] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/9 16:32:58]发起者:
+内容:获取NPCJson异常，NPCID:20297，要获取的变量:LevelStr(String)，JSON数据:{"id":20297,"Name":"","IsTag":false,"FirstName":"","face":0,"fightFace":0,"isImportant":true,"IsKnowPlayer":false,"CyList":[],"TuPoMiShu":[],"Title":"竹山宗大长老","ChengHaoID":8,"Type":1,"LiuPai":1,"MenPai":1,"AvatarType":1,"Level":10,"BindingNpcID":202,"SexType":2,"shaQi":0,"NextExp":19440000,"equipWeapon":0,"equipList":{"Weapon1":{"SkillSeids":[{"id":29,"value1":1},{"id":80,"value1":[953],"value2":[24]},{"id":79,"value1":[8],"value2":[11]}],"ItemID":18001,"Name":"木氤胜心剑","SeidDesc":"敌方获得【缠绕】x11
+对自己造成24点真实伤害
+","ItemIcon":"LianQiIcon/MCS_fabao_jian_1_4","quality":4,"QPingZhi":1,"shuXingIdList":[10],"qualitydesc":"下品纯阳法宝","Desc":"不知何人将吞云蟒之骨、木龙鳞、木龙鳞等材料炼制的下品纯阳法宝，此剑铭刻白虎灵纹,灵力更加强大，但对使用者也要求更高。","AttackType":[1],"Money":493200,"ItemFlag":[104,1041,1]},"Clothing":{"SkillSeids":[{"id":29,"value1":1}],"ItemSeids":[{"id":5,"value1":[953],"value2":[6]},{"id":5,"value1":[5],"value2":[61]}],"ItemID":18006,"Name":"辟尘太白袍","SeidDesc":"回合结束，获得【护罩】x61
+对自己造成6点真实伤害
+","ItemIcon":"LianQiIcon/MCS_fabao_pao_5_4","quality":4,"QPingZhi":2,"shuXingIdList":[86],"qualitydesc":"中品纯阳法宝","Desc":"不知何人将暴龙皮、暴龙心脏、天玄马心脏等材料炼制的中品纯阳法宝，此法袍铭刻白虎灵纹,灵力更加强大，但对使用者也要求更高。","AttackType":[5],"Money":613200,"ItemFlag":[204,2045,2]},"Ring":{"SkillSeids":[{"id":29,"value1":1}],"ItemSeids":[{"id":5,"value1":[953],"value2":[12]},{"id":17,"value1":[1],"value2":[9]}],"ItemID":18009,"Name":"丰茂斩星令","SeidDesc":"回合开始，敌方获得【中毒】x9
+对自己造成12点真实伤害
+","ItemIcon":"LianQiIcon/MCS_fabao_ling_1_4","quality":4,"QPingZhi":1,"shuXingIdList":[130],"qualitydesc":"下品纯阳法宝","Desc":"不知何人将木龙鳞、牙木铁、渊虾足等材料炼制的下品纯阳法宝，此令铭刻白虎灵纹,灵力更加强大，但对使用者也要求更高。","AttackType":[1],"Money":493200,"ItemFlag":[304,3041,3]}},"equipWeaponPianHao":[10,11,42,59],"equipWeapon2PianHao":[10,11,42,59],"equipClothingPianHao":[86,102,101],"equipRingPianHao":[130,131,132,138,146],"equipClothing":0,"equipRing":0,"LingGen":[5,40,25,5,5],"skills":[501,504,120,119,233,104,125,124,210],"JinDanType":[1,2],"staticSkills":[1039,1079,1084,1089,1005],"xiuLianSpeed":2433,"yuanying":1093,"MoneyType":5,"IsRefresh":0,"dropType":0,"canjiaPaiMai":0,"paimaifenzu":[1],"wudaoType":21,"XinQuType":302,"gudingjiage":0,"sellPercent":0,"useItem":{"5207":3,"5119":2,"5320":3,"5102":13,"5315":1,"5302":1,"5405":1,"5202":2,"5210":1,"5206":1,"5208":2},"NoteBook":{"10":[{"danyao":5207,"num":3,"time":"0001/12/1 0:00:00"},{"danyao":5320,"num":3,"time":"0032/7/1 0:00:00"}],"50":[{"npcname":"李楚","time":"0003/1/1 0:00:00"},{"npcname":"戚踏冥","time":"0005/10/1 0:00:00"},{"npcname":"李楚","time":"0006/7/1 0:00:00"},{"npcname":"常宛海","time":"0007/10/1 0:00:00"},{"npcname":"李楚","time":"0009/12/1 0:00:00"},{"npcname":"李楚","time":"0009/12/1 0:00:00"},{"npcname":"堵灵槐","time":"0011/4/1 0:00:00"},{"npcname":"莘水瑶","time":"0012/11/1 0:00:00"},{"npcname":"李楚","time":"0019/1/1 0:00:00"},{"npcname":"李楚","time":"0019/1/1 0:00:00"},{"npcname":"麻忘忧","time":"0023/12/1 0:00:00"},{"npcname":"李楚","time":"0025/9/1 0:00:00"},{"npcname":"李楚","time":"0028/8/1 0:00:00"},{"npcname":"李楚","time":"0030/11/1 0:00:00"},{"npcname":"鲁昭变","time":"0037/7/1 0:00:00"},{"npcname":"孔妙","time":"0040/8/1 0:00:00"},{"npcname":"李楚","time":"0046/9/1 0:00:00"},{"npcname":"百里润一","time":"0052/1/1 0:00:00"},{"npcname":"尚流素","time":"0052/4/1 0:00:00"},{"npcname":"别梓鸾","time":"0060/12/1 0:00:00"},{"npcname":"尤尘客","time":"0062/3/1 0:00:00"},{"npcname":"焦千萍","time":"0070/10/1 0:00:00"},{"npcname":"平夜春","time":"0077/3/1 0:00:00"},{"npcname":"卓绘梦","time":"0078/3/1 0:00:00"}],"31":[{"danyao":5119,"num":2,"time":"0004/6/1 0:00:00"},{"danyao":5121,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5108,"num":2,"time":"0004/6/1 0:00:00"},{"danyao":5103,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5112,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5102,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5111,"num":3,"time":"0004/6/1 0:00:00"},{"danyao":5116,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5114,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5109,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5115,"num":1,"time":"0004/6/1 0:00:00"},{"danyao":5102,"num":3,"time":"0006/10/1 0:00:00"},{"danyao":5107,"num":2,"time":"0006/10/1 0:00:00"},{"danyao":5104,"num":2,"time":"0006/10/1 0:00:00"},{"danyao":5113,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5116,"num":4,"time":"0006/10/1 0:00:00"},{"danyao":5110,"num":2,"time":"0006/10/1 0:00:00"},{"danyao":5111,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5106,"num":2,"time":"0006/10/1 0:00:00"},{"danyao":5118,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5121,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5117,"num":1,"time":"0006/10/1 0:00:00"},{"danyao":5119,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5112,"num":2,"time":"0007/2/1 0:00:00"},{"danyao":5111,"num":2,"time":"0007/2/1 0:00:00"},{"danyao":5107,"num":2,"time":"0007/2/1 0:00:00"},{"danyao":5116,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5106,"num":3,"time":"0007/2/1 0:00:00"},{"danyao":5117,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5109,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5118,"num":3,"time":"0007/2/1 0:00:00"},{"danyao":5108,"num":2,"time":"0007/2/1 0:00:00"},{"danyao":5114,"num":1,"time":"0007/2/1 0:00:00"},{"danyao":5113,"num":3,"time":"0011/10/1 0:00:00"},{"danyao":5118,"num":3,"time":"0011/10/1 0:00:00"},{"danyao":5101,"num":4,"time":"0011/10/1 0:00:00"},{"danyao":5103,"num":3,"time":"0011/10/1 0:00:00"},{"danyao":5121,"num":1,"time":"0011/10/1 0:00:00"},{"danyao":5106,"num":4,"time":"0011/10/1 0:00:00"},{"danyao":5110,"num":2,"time":"0011/10/1 0:00:00"},{"danyao":5104,"num":2,"time":"0011/10/1 0:00:00"},{"danyao":5111,"num":1,"time":"0011/10/1 0:00:00"},{"danyao":5119,"num":1,"time":"0011/10/1 0:00:00"},{"danyao":5104,"num":4,"time":"0011/11/1 0:00:00"},{"danyao":5102,"num":2,"time":"0011/11/1 0:00:00"},{"danyao":5101,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5116,"num":2,"time":"0011/11/1 0:00:00"},{"danyao":5108,"num":2,"time":"0011/11/1 0:00:00"},{"danyao":5111,"num":3,"time":"0011/11/1 0:00:00"},{"danyao":5103,"num":2,"time":"0011/11/1 0:00:00"},{"danyao":5110,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5114,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5121,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5120,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5115,"num":1,"time":"0011/11/1 0:00:00"},{"danyao":5115,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5118,"num":2,"time":"0015/2/1 0:00:00"},{"danyao":5113,"num":3,"time":"0015/2/1 0:00:00"},{"danyao":5103,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5108,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5110,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5112,"num":2,"time":"0015/2/1 0:00:00"},{"danyao":5116,"num":3,"time":"0015/2/1 0:00:00"},{"danyao":5101,"num":2,"time":"0015/2/1 0:00:00"},{"danyao":5107,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5120,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5117,"num":2,"time":"0015/2/1 0:00:00"},{"danyao":5104,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5121,"num":1,"time":"0015/2/1 0:00:00"},{"danyao":5111,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5101,"num":2,"time":"0015/3/1 0:00:00"},{"danyao":5109,"num":3,"time":"0015/3/1 0:00:00"},{"danyao":5121,"num":3,"time":"0015/3/1 0:00:00"},{"danyao":5103,"num":2,"time":"0015/3/1 0:00:00"},{"danyao":5115,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5120,"num":3,"time":"0015/3/1 0:00:00"},{"danyao":5106,"num":3,"time":"0015/3/1 0:00:00"},{"danyao":5116,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5104,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5118,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5117,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5113,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5107,"num":1,"time":"0015/3/1 0:00:00"},{"danyao":5108,"num":3,"time":"0015/6/1 0:00:00"},{"danyao":5116,"num":2,"time":"0015/6/1 0:00:00"},{"danyao":5101,"num":2,"time":"0015/6/1 0:00:00"},{"danyao":5110,"num":4,"time":"0015/6/1 0:00:00"},{"danyao":5112,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5120,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5114,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5106,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5118,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5121,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5111,"num":2,"time":"0015/6/1 0:00:00"},{"danyao":5109,"num":2,"time":"0015/6/1 0:00:00"},{"danyao":5115,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5119,"num":1,"time":"0015/6/1 0:00:00"},{"danyao":5111,"num":2,"time":"0021/1/1 0:00:00"},{"danyao":5110,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5117,"num":2,"time":"0021/1/1 0:00:00"},{"danyao":5112,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5120,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5121,"num":2,"time":"0021/1/1 0:00:00"},{"danyao":5119,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5102,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5108,"num":2,"time":"0021/1/1 0:00:00"},{"danyao":5106,"num":4,"time":"0021/1/1 0:00:00"},{"danyao":5115,"num":1,"time":"0021/1/1 0:00:00"},{"danyao":5106,"num":1,"time":"0021/7/1 0:00:00"},{"danyao":5121,"num":3,"time":"0021/7/1 0:00:00"},{"danyao":5110,"num":2,"time":"0021/7/1 0:00:00"},{"danyao":5112,"num":2,"time":"0021/7/1 0:00:00"},{"danyao":5108,"num":4,"time":"0021/7/1 0:00:00"},{"danyao":5114,"num":2,"time":"0021/7/1 0:00:00"},{"danyao":5103,"num":3,"time":"0021/7/1 0:00:00"},{"danyao":5102,"num":1,"time":"0021/7/1 0:00:00"},{"danyao":5119,"num":1,"time":"0021/7/1 0:00:00"},{"danyao":5110,"num":2,"time":"0022/2/1 0:00:00"},{"danyao":5117,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5104,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5108,"num":2,"time":"0022/2/1 0:00:00"},{"danyao":5112,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5109,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5116,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5115,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5111,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5119,"num":3,"time":"0022/2/1 0:00:00"},{"danyao":5101,"num":1,"time":"0022/2/1 0:00:00"},{"danyao":5103,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5115,"num":2,"time":"0032/1/1 0:00:00"},{"danyao":5114,"num":2,"time":"0032/1/1 0:00:00"},{"danyao":5102,"num":2,"time":"0032/1/1 0:00:00"},{"danyao":5106,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5120,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5116,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5119,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5104,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5107,"num":2,"time":"0032/1/1 0:00:00"},{"danyao":5121,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5112,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5101,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5113,"num":1,"time":"0032/1/1 0:00:00"},{"danyao":5117,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5110,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5119,"num":3,"time":"0032/5/1 0:00:00"},{"danyao":5111,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5115,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5120,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5107,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5116,"num":2,"time":"0032/5/1 0:00:00"},{"danyao":5121,"num":1,"time":"0032/5/1 0:00:00"},{"danyao":5115,"num":2,"time":"0041/12/1 0:00:00"},{"danyao":5112,"num":2,"time":"0041/12/1 0:00:00"},{"danyao":5117,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5118,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5116,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5121,"num":3,"time":"0041/12/1 0:00:00"},{"danyao":5114,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5109,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5119,"num":2,"time":"0041/12/1 0:00:00"},{"danyao":5110,"num":1,"time":"0041/12/1 0:00:00"},{"danyao":5102,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5106,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5107,"num":3,"time":"0050/8/1 0:00:00"},{"danyao":5118,"num":2,"time":"0050/8/1 0:00:00"},{"danyao":5114,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5101,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5109,"num":5,"time":"0050/8/1 0:00:00"},{"danyao":5104,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5110,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5113,"num":3,"time":"0050/8/1 0:00:00"},{"danyao":5117,"num":2,"time":"0050/8/1 0:00:00"},{"danyao":5108,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5116,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5103,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5120,"num":1,"time":"0050/8/1 0:00:00"},{"danyao":5109,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5106,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5110,"num":2,"time":"0052/8/1 0:00:00"},{"danyao":5117,"num":2,"time":"0052/8/1 0:00:00"},{"danyao":5103,"num":2,"time":"0052/8/1 0:00:00"},{"danyao":5107,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5104,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5111,"num":3,"time":"0052/8/1 0:00:00"},{"danyao":5113,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5101,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5112,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5102,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5115,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5120,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5119,"num":1,"time":"0052/8/1 0:00:00"},{"danyao":5116,"num":2,"time":"0052/12/1 0:00:00"},{"danyao":5107,"num":5,"time":"0052/12/1 0:00:00"},{"danyao":5103,"num":3,"time":"0052/12/1 0:00:00"},{"danyao":5111,"num":3,"time":"0052/12/1 0:00:00"},{"danyao":5101,"num":1,"time":"0052/12/1 0:00:00"},{"danyao":5104,"num":3,"time":"0052/12/1 0:00:00"},{"danyao":5110,"num":2,"time":"0052/12/1 0:00:00"},{"danyao":5120,"num":1,"time":"0052/12/1 0:00:00"},{"danyao":5121,"num":1,"time":"0052/12/1 0:00:00"},{"danyao":5102,"num":1,"time":"0052/12/1 0:00:00"},{"danyao":5118,"num":2,"time":"0052/12/1 0:00:00"},{"danyao":5217,"num":2,"time":"0060/5/1 0:00:00"},{"danyao":5227,"num":1,"time":"0060/5/1 0:00:00"},{"danyao":5216,"num":1,"time":"0060/5/1 0:00:00"},{"danyao":5212,"num":1,"time":"0060/5/1 0:00:00"},{"danyao":5202,"num":1,"time":"0064/11/1 0:00:00"},{"danyao":5212,"num":1,"time":"0064/11/1 0:00:00"},{"danyao":5219,"num":1,"time":"0068/7/1 0:00:00"},{"danyao":5226,"num":1,"time":"0068/7/1 0:00:00"},{"danyao":5215,"num":1,"time":"0068/7/1 0:00:00"},{"danyao":5218,"num":1,"time":"0068/7/1 0:00:00"},{"danyao":5202,"num":1,"time":"0068/7/1 0:00:00"},{"danyao":5212,"num":2,"time":"0069/6/1 0:00:00"},{"danyao":5217,"num":1,"time":"0069/6/1 0:00:00"},{"danyao":5210,"num":1,"time":"0069/6/1 0:00:00"},{"danyao":5204,"num":1,"time":"0069/6/1 0:00:00"},{"danyao":5227,"num":1,"time":"0078/10/1 0:00:00"},{"danyao":5203,"num":1,"time":"0078/10/1 0:00:00"},{"danyao":5208,"num":1,"time":"0078/10/1 0:00:00"},{"danyao":5229,"num":1,"time":"0079/4/1 0:00:00"},{"danyao":5219,"num":1,"time":"0079/4/1 0:00:00"},{"danyao":5206,"num":1,"time":"0079/4/1 0:00:00"},{"danyao":5214,"num":1,"time":"0080/5/1 0:00:00"},{"danyao":5227,"num":1,"time":"0080/5/1 0:00:00"},{"danyao":5208,"num":1,"time":"0080/5/1 0:00:00"}],"7":[{"danyao":5119,"num":2,"time":"0004/7/1 0:00:00"}],"4":[{"danyao":5102,"num":1,"time":"0004/7/1 0:00:00"},{"danyao":5102,"num":3,"time":"0007/1/1 0:00:00"},{"danyao":5102,"num":2,"time":"0011/12/1 0:00:00"},{"danyao":5102,"num":1,"time":"0021/2/1 0:00:00"},{"danyao":5102,"num":1,"time":"0021/8/1 0:00:00"},{"danyao":5102,"num":2,"time":"0032/2/1 0:00:00"},{"danyao":5102,"num":1,"time":"0050/10/1 0:00:00"},{"danyao":5102,"num":1,"time":"0052/11/1 0:00:00"},{"danyao":5102,"num":1,"time":"0053/3/1 0:00:00"},{"danyao":5302,"num":1,"time":"0059/12/1 0:00:00"},{"danyao":5202,"num":1,"time":"0064/12/1 0:00:00"},{"danyao":5202,"num":1,"time":"0068/9/1 0:00:00"}],"33":[{"qiYuId":1,"time":"0010/1/1 0:00:00"},{"qiYuId":401,"time":"0016/1/1 0:00:00"},{"qiYuId":2,"time":"0024/6/1 0:00:00"},{"qiYuId":403,"item":6503,"num":1,"time":"0027/1/1 0:00:00"},{"qiYuId":402,"time":"0029/1/1 0:00:00"},{"qiYuId":401,"time":"0036/1/1 0:00:00"},{"qiYuId":9,"time":"0041/10/1 0:00:00"},{"qiYuId":1,"time":"0049/1/1 0:00:00"},{"qiYuId":2,"time":"0051/11/1 0:00:00"},{"qiYuId":404,"item":5405,"num":1,"time":"0067/8/1 0:00:00"},{"qiYuId":404,"item":5406,"num":1,"time":"0074/1/1 0:00:00"},{"qiYuId":401,"time":"0077/7/1 0:00:00"}],"60":[{"item":11401,"itemName":"","time":"0020/4/1 0:00:00"},{"item":11401,"itemName":"","time":"0030/3/1 0:00:00"},{"item":3530,"itemName":"","time":"0060/4/1 0:00:00"}],"71":[{"rank":6,"time":"0050/01/21"}],"9":[{"danyao":5315,"num":1,"time":"0058/9/1 0:00:00"},{"danyao":5208,"num":1,"time":"0079/1/1 0:00:00"},{"danyao":5208,"num":1,"time":"0080/8/1 0:00:00"}],"5":[{"danyao":5405,"num":1,"time":"0067/9/1 0:00:00"},{"danyao":5206,"num":1,"time":"0079/8/1 0:00:00"}],"11":[{"danyao":5210,"num":1,"time":"0070/10/1 0:00:00"}]},"wuDaoSkillList":[201,212,221,232,241,901,911,921,701,711,721,2001],"wuDaoJson":{"1":{"id":1,"level":3,"exp":30252},"2":{"id":2,"level":5,"exp":227520},"3":{"id":3,"level":3,"exp":30000},"4":{"id":4,"level":3,"exp":30252},"5":{"id":5,"level":3,"exp":30256},"6":{"id":6,"level":3,"exp":30130},"7":{"id":7,"level":3,"exp":30000},"8":{"id":8,"level":1,"exp":1520},"9":{"id":9,"level":3,"exp":62530},"10":{"id":10,"level":1,"exp":1260},"21":{"id":21,"level":2,"exp":10419},"22":{"id":22,"level":1,"exp":1000}},"XingGe":6,"NPCTag":2,"shouYuan":1041,"wuXin":81,"QingFen":500,"Status":{"StatusId":1,"StatusTime":59638},"WuDaoValueLevel":30,"EWWuDaoDian":30,"dunSu":49,"HP":2644,"WuDaoValue":532800,"shengShi":60,"ziZhi":86,"GongXian":44,"age":6259,"ActionId":102,"IsNeedHelp":false,"isTanChaUnlock":false,"exp":11881757}
+
+[2023/3/11 0:34:39]发起者:
+内容:获取NPCJson异常，没有NPCID:0的数据
+
+[2023/3/11 0:34:59]发起者:
+内容:获取NPCJson异常，没有NPCID:0的数据
+
+[2023/3/11 0:34:59]发起者:
+内容:Fungus出现异常，所在Flowchart 22，所在Block 性格判定，CommandIndex 5，异常信息:
+Object reference not set to an instance of an object
+  at CmdCheckGuanXi.OnEnter () [0x00002] in <7d04e6edada442d2959580df0c793c49>:0 
+  at Fungus.Command.Execute () [0x0001a] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/11 0:35:02]发起者:
+内容:获取NPCJson异常，没有NPCID:0的数据
+
+[2023/3/11 0:35:02]发起者:
+内容:Fungus出现异常，所在Flowchart 44，所在Block 性格判定，CommandIndex 5，异常信息:
+Object reference not set to an instance of an object
+  at CmdCheckGuanXi.OnEnter () [0x00002] in <7d04e6edada442d2959580df0c793c49>:0 
+  at Fungus.Command.Execute () [0x0001a] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/11 0:35:10]发起者:
+内容:获取NPCJson异常，没有NPCID:0的数据
+
+[2023/3/11 0:35:10]发起者:
+内容:Fungus出现异常，所在Flowchart 46，所在Block 性格获取，CommandIndex 5，异常信息:
+Object reference not set to an instance of an object
+  at CmdCheckGuanXi.OnEnter () [0x00002] in <7d04e6edada442d2959580df0c793c49>:0 
+  at Fungus.Command.Execute () [0x0001a] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/11 0:36:53]发起者:
+内容:设置形象时出错，ID:20858，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/11 0:36:53]发起者:
+内容:Fungus出现异常，所在Flowchart Talk8106，所在Block 诛杀，CommandIndex 4，异常信息:
+Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0021e] in <7d04e6edada442d2959580df0c793c49>:0 
+  at Fungus.SayDialog.SetCharacterImage (UnityEngine.Sprite image, System.Int32 characterID) [0x000b5] in <7d04e6edada442d2959580df0c793c49>:0 
+  at Fungus.Say.OnEnter () [0x00110] in <7d04e6edada442d2959580df0c793c49>:0 
+  at Fungus.Command.Execute () [0x0001a] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/11 1:22:41]发起者:
+内容:获取道侣昵称出错，618不是玩家的道侣
+
+[2023/3/11 12:30:03]发起者:
+内容:Fungus出现异常，所在Flowchart NPCJiaoHuTalk，所在Block 交易，CommandIndex 7，异常信息:
+Object reference not set to an instance of an object
+  at CmdChangeNPCAction.OnEnter () [0x00094] in <7d04e6edada442d2959580df0c793c49>:0 
+  at Fungus.Command.Execute () [0x0001a] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/14 10:39:02]发起者:
+内容:获取技能seid数据失败，技能id:7114，seid:58，技能seid58表中不存在id为7114的数据，请检查配表
+
+[2023/3/14 10:39:02]发起者:
+内容:检测到buff错误！错误 BuffID:8101
+buffInfo:1 1 8101 
+flag:0 4014 1 0 2 
+buffLoopDataStr:
+
+[2023/3/14 10:39:02]发起者:
+内容:System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at GUIPackage.Skill.realizeSeid58 (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Avatar attaker, KBEngine.Avatar receiver, System.Int32 type) [0x00049] in <7d04e6edada442d2959580df0c793c49>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at GUIPackage.Skill.realizeSeid (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Entity _attaker, KBEngine.Entity _receiver, System.Int32 type) [0x00044] in <7d04e6edada442d2959580df0c793c49>:0 
+  at KBEngine.Buff.ListRealizeSeid139 (System.Int32 seid, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x000f5] in <7d04e6edada442d2959580df0c793c49>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <7d04e6edada442d2959580df0c793c49>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <7d04e6edada442d2959580df0c793c49>:0 
+
