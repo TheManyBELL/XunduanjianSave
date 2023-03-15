@@ -1092,3 +1092,317 @@ buffLoopDataStr:
   at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <7d04e6edada442d2959580df0c793c49>:0 
   at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <7d04e6edada442d2959580df0c793c49>:0 
 
+[2023/3/15 20:01:47]发起者:
+内容:获取技能seid数据失败，技能id:7114，seid:58，技能seid58表中不存在id为7114的数据，请检查配表
+
+[2023/3/15 20:01:47]发起者:
+内容:检测到buff错误！错误 BuffID:8101
+buffInfo:1 1 8101 
+flag:60 1124 1 0 2 
+buffLoopDataStr:
+
+[2023/3/15 20:01:47]发起者:
+内容:System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at GUIPackage.Skill.realizeSeid58 (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Avatar attaker, KBEngine.Avatar receiver, System.Int32 type) [0x00049] in <7d04e6edada442d2959580df0c793c49>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at GUIPackage.Skill.realizeSeid (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Entity _attaker, KBEngine.Entity _receiver, System.Int32 type) [0x00044] in <7d04e6edada442d2959580df0c793c49>:0 
+  at KBEngine.Buff.ListRealizeSeid139 (System.Int32 seid, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x000f5] in <7d04e6edada442d2959580df0c793c49>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <7d04e6edada442d2959580df0c793c49>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:42:51]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:42:51]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:42:51]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:42:51]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:42:51]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:42:51]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:42:51]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:42:51]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:42:51]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:42:51]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:42:51]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:42:51]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:43:37]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:43:37]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:43:37]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:43:37]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:43:37]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:43:37]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:43:37]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:43:37]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:43:37]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:43:37]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:43:55]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:43:55]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:43:55]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:43:55]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:43:55]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:43:55]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:43:55]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:43:55]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:43:55]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:43:55]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:44:29]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:44:29]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:44:29]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:44:29]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:44:29]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:44:29]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:44:29]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:44:29]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:44:29]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:44:29]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:44:29]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:44:29]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:44:47]发起者:
+内容:获取NPC 21265 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:44:47]发起者:
+内容:获取NPC数据时出错，目标的ID:21265，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:44:47]发起者:
+内容:获取NPC 21265 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:44:47]发起者:
+内容:获取NPC数据时出错，目标的ID:21265，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:44:47]发起者:
+内容:获取NPC 21265 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:44:47]发起者:
+内容:获取NPC数据时出错，目标的ID:21265，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:44:47]发起者:
+内容:获取NPC 21265 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:44:47]发起者:
+内容:获取NPC数据时出错，目标的ID:21265，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:44:47]发起者:
+内容:获取NPC 21265 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:44:47]发起者:
+内容:获取NPC数据时出错，目标的ID:21265，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:45:33]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:45:33]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:45:33]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:45:33]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:45:33]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:45:33]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:45:33]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:45:33]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 20:45:33]发起者:
+内容:获取NPC 21266 的名字和好感度失败，jsonData.instance.AvatarRandomJsonData中没有此ID
+
+[2023/3/15 20:45:33]发起者:
+内容:获取NPC数据时出错，目标的ID:21266，错误信息:
+System.Exception: NPC获取失败
+  at UINPCData.RefreshData () [0x000b7] in <7d04e6edada442d2959580df0c793c49>:0 
+
+[2023/3/15 21:07:47]发起者:
+内容:fungus遇到空command，已断开循环，当前场景F14，Flowchart:89，Block:AvatarIn
+当前block含有2个command，当前处于1
+
+[2023/3/15 21:55:40]发起者:
+内容:获取技能seid数据失败，技能id:7114，seid:58，技能seid58表中不存在id为7114的数据，请检查配表
+
+[2023/3/15 21:55:40]发起者:
+内容:检测到buff错误！错误 BuffID:8101
+buffInfo:1 1 8101 
+flag:31 1124 1 0 2 
+buffLoopDataStr:
+
+[2023/3/15 21:55:40]发起者:
+内容:System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at GUIPackage.Skill.realizeSeid58 (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Avatar attaker, KBEngine.Avatar receiver, System.Int32 type) [0x00049] in <7d04e6edada442d2959580df0c793c49>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at GUIPackage.Skill.realizeSeid (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Entity _attaker, KBEngine.Entity _receiver, System.Int32 type) [0x00044] in <7d04e6edada442d2959580df0c793c49>:0 
+  at KBEngine.Buff.ListRealizeSeid139 (System.Int32 seid, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x000f5] in <7d04e6edada442d2959580df0c793c49>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <7d04e6edada442d2959580df0c793c49>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <7d04e6edada442d2959580df0c793c49>:0 
+
