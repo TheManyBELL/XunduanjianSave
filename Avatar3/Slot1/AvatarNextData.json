@@ -1,0 +1,29 @@
+{
+  "IntGroup": {
+    "DataDic": {
+      "Fight": {
+        "IsVictory": 1
+      },
+      "Default": {
+        "奇怪的铁片奇遇": 0
+      }
+    }
+  },
+  "StrGroup": {
+    "DataDic": {
+      "Default": {
+        "喜好选择": "炼丹"
+      }
+    }
+  },
+  "TriggerStates": {
+    "神秘的古戒-物品使用触发器": {
+      "Enabled": true,
+      "Count": 2
+    },
+    "破旧的黑铁片-物品使用触发器": {
+      "Enabled": true,
+      "Count": 1
+    }
+  }
+}
