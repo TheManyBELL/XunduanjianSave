@@ -4,28 +4,13 @@
       "Fight": {
         "IsVictory": 1
       },
-      "Default": {
-        "奇怪的铁片奇遇": 0,
-        "复生-1-对话次数": 0,
-        "复生任务一阶段完成": 0
-      }
+      "Default": {}
     }
   },
   "StrGroup": {
     "DataDic": {
-      "Default": {
-        "喜好选择": "炼丹"
-      }
+      "Default": {}
     }
   },
-  "TriggerStates": {
-    "神秘的古戒-物品使用触发器": {
-      "Enabled": true,
-      "Count": 2
-    },
-    "破旧的黑铁片-物品使用触发器": {
-      "Enabled": true,
-      "Count": 1
-    }
-  }
+  "TriggerStates": {}
 }
