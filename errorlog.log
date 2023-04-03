@@ -5615,3 +5615,48 @@ Spine.Unity.Examples.SkeletonAnimationHandleExample.Awake () (at <d6a65f9f744443
 [2023/4/3 17:04:39]发起者:
 内容:锁魂幡 id:114没有配FaBaoType
 
+[2023/4/3 23:22:27]发起者:
+内容:获取NPCJson异常，没有NPCID:0的数据
+
+[2023/4/3 23:22:32]发起者:
+内容:获取NPCJson异常，没有NPCID:0的数据
+
+[2023/4/3 23:22:32]发起者:
+内容:Fungus出现异常，所在Flowchart 22，所在Block 性格判定，CommandIndex 5，异常信息:
+Object reference not set to an instance of an object
+  at CmdCheckGuanXi.OnEnter () [0x00002] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at Fungus.Command.Execute () [0x0001a] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
+[2023/4/3 23:22:37]发起者:
+内容:获取NPCJson异常，没有NPCID:0的数据
+
+[2023/4/3 23:22:37]发起者:
+内容:Fungus出现异常，所在Flowchart 44，所在Block 性格判定，CommandIndex 5，异常信息:
+Object reference not set to an instance of an object
+  at CmdCheckGuanXi.OnEnter () [0x00002] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at Fungus.Command.Execute () [0x0001a] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
+[2023/4/3 23:22:53]发起者:
+内容:获取NPCJson异常，没有NPCID:0的数据
+
+[2023/4/3 23:22:53]发起者:
+内容:Fungus出现异常，所在Flowchart 46，所在Block 性格获取，CommandIndex 5，异常信息:
+Object reference not set to an instance of an object
+  at CmdCheckGuanXi.OnEnter () [0x00002] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at Fungus.Command.Execute () [0x0001a] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
+[2023/4/3 23:27:13]发起者:
+内容:设置形象时出错，ID:21485，错误:Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
+[2023/4/3 23:27:13]发起者:
+内容:Fungus出现异常，所在Flowchart Talk8106，所在Block 诛杀，CommandIndex 4，异常信息:
+Object reference not set to an instance of an object
+  at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0021e] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at Fungus.SayDialog.SetCharacterImage (UnityEngine.Sprite image, System.Int32 characterID) [0x000b5] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at Fungus.Say.OnEnter () [0x00110] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at Fungus.Command.Execute () [0x0001a] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
+[2023/4/4 1:04:24]发起者:
+内容:嗜魂幡 id:1909没有配FaBaoType
+
