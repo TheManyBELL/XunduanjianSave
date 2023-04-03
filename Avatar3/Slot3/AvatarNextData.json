@@ -1,0 +1,16 @@
+{
+  "IntGroup": {
+    "DataDic": {
+      "Fight": {
+        "IsVictory": 1
+      },
+      "Default": {}
+    }
+  },
+  "StrGroup": {
+    "DataDic": {
+      "Default": {}
+    }
+  },
+  "TriggerStates": {}
+}
