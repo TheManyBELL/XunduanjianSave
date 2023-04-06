@@ -5699,3 +5699,9 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 内容:设置形象时出错，ID:20315，错误:Object reference not set to an instance of an object
   at PlayerSetRandomFace.randomAvatar (System.Int32 monstarID) [0x0002e] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
 
+[2023/4/6 11:31:09]发起者:
+内容:Fungus出现异常，所在Flowchart NPCJiaoHuTalk，所在Block 交易，CommandIndex 7，异常信息:
+Object reference not set to an instance of an object
+  at CmdChangeNPCAction.OnEnter () [0x00094] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at Fungus.Command.Execute () [0x0001a] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
