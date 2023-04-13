@@ -8535,3 +8535,401 @@ buffLoopDataStr:
   at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
   at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
 
+[2023/4/14 0:36:09]发起者:
+内容:获取技能seid数据失败，技能id:6034，seid:4，技能seid4表中不存在id为6034的数据，请检查配表
+
+[2023/4/14 0:36:09]发起者:
+内容:检测到buff错误！错误 BuffID:6023
+buffInfo:1 1 6023 
+flag:0 6044 0 0 2 
+buffLoopDataStr:
+
+[2023/4/14 0:36:09]发起者:
+内容:System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at GUIPackage.Skill.realizeSeid4 (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Avatar attaker, KBEngine.Avatar receiver, System.Int32 type) [0x00072] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at GUIPackage.Skill.realizeSeid (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Entity _attaker, KBEngine.Entity _receiver, System.Int32 type) [0x00044] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.ListRealizeSeid139 (System.Int32 seid, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x000f5] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
+[2023/4/14 0:36:09]发起者:
+内容:获取技能seid数据失败，技能id:6034，seid:4，技能seid4表中不存在id为6034的数据，请检查配表
+
+[2023/4/14 0:36:09]发起者:
+内容:检测到buff错误！错误 BuffID:6023
+buffInfo:1 1 6023 
+flag:0 6044 0 0 2 
+buffLoopDataStr:
+
+[2023/4/14 0:36:09]发起者:
+内容:System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at GUIPackage.Skill.realizeSeid4 (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Avatar attaker, KBEngine.Avatar receiver, System.Int32 type) [0x00072] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at GUIPackage.Skill.realizeSeid (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Entity _attaker, KBEngine.Entity _receiver, System.Int32 type) [0x00044] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.ListRealizeSeid139 (System.Int32 seid, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x000f5] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
+[2023/4/14 1:50:38]发起者:
+内容:检测到buff错误！错误 BuffID:14001
+buffInfo:1 1 14001 
+flag:
+buffLoopDataStr:
+
+[2023/4/14 1:50:38]发起者:
+内容:System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.ListRealizeSeid72 (System.Int32 seid, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x000b4] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
+[2023/4/14 1:51:08]发起者:
+内容:获取技能seid数据失败，技能id:6004，seid:4，技能seid4表中不存在id为6004的数据，请检查配表
+
+[2023/4/14 1:51:08]发起者:
+内容:检测到buff错误！错误 BuffID:6023
+buffInfo:1 1 6023 
+flag:0 6009 0 0 2 
+buffLoopDataStr:
+
+[2023/4/14 1:51:08]发起者:
+内容:System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at GUIPackage.Skill.realizeSeid4 (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Avatar attaker, KBEngine.Avatar receiver, System.Int32 type) [0x00072] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at GUIPackage.Skill.realizeSeid (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Entity _attaker, KBEngine.Entity _receiver, System.Int32 type) [0x00044] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.ListRealizeSeid139 (System.Int32 seid, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x000f5] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
+[2023/4/14 1:51:09]发起者:
+内容:获取技能seid数据失败，技能id:6004，seid:4，技能seid4表中不存在id为6004的数据，请检查配表
+
+[2023/4/14 1:51:09]发起者:
+内容:检测到buff错误！错误 BuffID:6023
+buffInfo:1 1 6023 
+flag:0 6044 0 0 2 
+buffLoopDataStr:
+
+[2023/4/14 1:51:09]发起者:
+内容:System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at GUIPackage.Skill.realizeSeid4 (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Avatar attaker, KBEngine.Avatar receiver, System.Int32 type) [0x00072] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at GUIPackage.Skill.realizeSeid (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Entity _attaker, KBEngine.Entity _receiver, System.Int32 type) [0x00044] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.ListRealizeSeid139 (System.Int32 seid, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x000f5] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
+[2023/4/14 1:51:09]发起者:
+内容:获取技能seid数据失败，技能id:6004，seid:4，技能seid4表中不存在id为6004的数据，请检查配表
+
+[2023/4/14 1:51:09]发起者:
+内容:检测到buff错误！错误 BuffID:6023
+buffInfo:1 1 6023 
+flag:0 6044 0 0 2 
+buffLoopDataStr:
+
+[2023/4/14 1:51:09]发起者:
+内容:System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at GUIPackage.Skill.realizeSeid4 (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Avatar attaker, KBEngine.Avatar receiver, System.Int32 type) [0x00072] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at GUIPackage.Skill.realizeSeid (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Entity _attaker, KBEngine.Entity _receiver, System.Int32 type) [0x00044] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.ListRealizeSeid139 (System.Int32 seid, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x000f5] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
+[2023/4/14 1:51:09]发起者:
+内容:获取技能seid数据失败，技能id:13904，seid:34，技能seid34表中不存在id为13904的数据，请检查配表
+
+[2023/4/14 1:51:09]发起者:
+内容:检测到buff错误！错误 BuffID:6023
+buffInfo:1 1 6023 
+flag:0 6004 0 0 2 
+buffLoopDataStr:
+
+[2023/4/14 1:51:09]发起者:
+内容:System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at GUIPackage.Skill.realizeBuffEndSeid34 (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Avatar attaker, KBEngine.Avatar receiver, System.Int32 type) [0x00010] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at GUIPackage.Skill.realizeBuffEndSeid (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Entity _attaker, KBEngine.Entity _receiver, System.Int32 type) [0x00044] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.ListRealizeSeid139 (System.Int32 seid, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x00112] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
+[2023/4/14 1:51:09]发起者:
+内容:获取技能seid数据失败，技能id:13904，seid:34，技能seid34表中不存在id为13904的数据，请检查配表
+
+[2023/4/14 1:51:09]发起者:
+内容:检测到buff错误！错误 BuffID:6023
+buffInfo:1 1 6023 
+flag:0 6009 0 0 2 
+buffLoopDataStr:
+
+[2023/4/14 1:51:09]发起者:
+内容:System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at GUIPackage.Skill.realizeBuffEndSeid34 (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Avatar attaker, KBEngine.Avatar receiver, System.Int32 type) [0x00010] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at GUIPackage.Skill.realizeBuffEndSeid (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Entity _attaker, KBEngine.Entity _receiver, System.Int32 type) [0x00044] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.ListRealizeSeid139 (System.Int32 seid, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x00112] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
+[2023/4/14 1:51:10]发起者:
+内容:获取技能seid数据失败，技能id:13904，seid:4，技能seid4表中不存在id为13904的数据，请检查配表
+
+[2023/4/14 1:51:10]发起者:
+内容:检测到buff错误！错误 BuffID:6023
+buffInfo:1 1 6023 
+flag:0 6044 0 0 2 
+buffLoopDataStr:
+
+[2023/4/14 1:51:10]发起者:
+内容:System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at GUIPackage.Skill.realizeSeid4 (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Avatar attaker, KBEngine.Avatar receiver, System.Int32 type) [0x00072] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at GUIPackage.Skill.realizeSeid (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Entity _attaker, KBEngine.Entity _receiver, System.Int32 type) [0x00044] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.ListRealizeSeid139 (System.Int32 seid, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x000f5] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
+[2023/4/14 1:51:10]发起者:
+内容:获取技能seid数据失败，技能id:13904，seid:4，技能seid4表中不存在id为13904的数据，请检查配表
+
+[2023/4/14 1:51:10]发起者:
+内容:检测到buff错误！错误 BuffID:6023
+buffInfo:1 1 6023 
+flag:0 6044 0 0 2 
+buffLoopDataStr:
+
+[2023/4/14 1:51:10]发起者:
+内容:System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at GUIPackage.Skill.realizeSeid4 (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Avatar attaker, KBEngine.Avatar receiver, System.Int32 type) [0x00072] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at GUIPackage.Skill.realizeSeid (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Entity _attaker, KBEngine.Entity _receiver, System.Int32 type) [0x00044] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.ListRealizeSeid139 (System.Int32 seid, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x000f5] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
+[2023/4/14 1:51:38]发起者:
+内容:获取技能seid数据失败，技能id:8564，seid:34，技能seid34表中不存在id为8564的数据，请检查配表
+
+[2023/4/14 1:51:38]发起者:
+内容:检测到buff错误！错误 BuffID:6023
+buffInfo:1 1 6023 
+flag:0 6004 1 0 2 
+buffLoopDataStr:
+
+[2023/4/14 1:51:38]发起者:
+内容:System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at GUIPackage.Skill.realizeBuffEndSeid34 (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Avatar attaker, KBEngine.Avatar receiver, System.Int32 type) [0x00010] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at GUIPackage.Skill.realizeBuffEndSeid (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Entity _attaker, KBEngine.Entity _receiver, System.Int32 type) [0x00044] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.ListRealizeSeid139 (System.Int32 seid, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x00112] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
+[2023/4/14 1:51:38]发起者:
+内容:获取技能seid数据失败，技能id:8564，seid:34，技能seid34表中不存在id为8564的数据，请检查配表
+
+[2023/4/14 1:51:38]发起者:
+内容:检测到buff错误！错误 BuffID:6023
+buffInfo:1 1 6023 
+flag:0 6004 1 0 2 
+buffLoopDataStr:
+
+[2023/4/14 1:51:38]发起者:
+内容:System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at GUIPackage.Skill.realizeBuffEndSeid34 (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Avatar attaker, KBEngine.Avatar receiver, System.Int32 type) [0x00010] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at GUIPackage.Skill.realizeBuffEndSeid (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Entity _attaker, KBEngine.Entity _receiver, System.Int32 type) [0x00044] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.ListRealizeSeid139 (System.Int32 seid, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x00112] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
+[2023/4/14 1:51:38]发起者:
+内容:获取技能seid数据失败，技能id:8564，seid:34，技能seid34表中不存在id为8564的数据，请检查配表
+
+[2023/4/14 1:51:38]发起者:
+内容:检测到buff错误！错误 BuffID:6023
+buffInfo:1 1 6023 
+flag:0 6009 1 0 2 
+buffLoopDataStr:
+
+[2023/4/14 1:51:38]发起者:
+内容:System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at GUIPackage.Skill.realizeBuffEndSeid34 (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Avatar attaker, KBEngine.Avatar receiver, System.Int32 type) [0x00010] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at GUIPackage.Skill.realizeBuffEndSeid (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Entity _attaker, KBEngine.Entity _receiver, System.Int32 type) [0x00044] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.ListRealizeSeid139 (System.Int32 seid, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x00112] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
+[2023/4/14 1:51:39]发起者:
+内容:获取技能seid数据失败，技能id:8564，seid:4，技能seid4表中不存在id为8564的数据，请检查配表
+
+[2023/4/14 1:51:39]发起者:
+内容:检测到buff错误！错误 BuffID:6023
+buffInfo:1 1 6023 
+flag:0 6044 1 0 2 
+buffLoopDataStr:
+
+[2023/4/14 1:51:39]发起者:
+内容:System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at GUIPackage.Skill.realizeSeid4 (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Avatar attaker, KBEngine.Avatar receiver, System.Int32 type) [0x00072] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at GUIPackage.Skill.realizeSeid (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Entity _attaker, KBEngine.Entity _receiver, System.Int32 type) [0x00044] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.ListRealizeSeid139 (System.Int32 seid, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x000f5] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
+[2023/4/14 1:51:42]发起者:
+内容:获取技能seid数据失败，技能id:6044，seid:34，技能seid34表中不存在id为6044的数据，请检查配表
+
+[2023/4/14 1:51:42]发起者:
+内容:检测到buff错误！错误 BuffID:6023
+buffInfo:1 1 6023 
+flag:0 6004 0 0 2 
+buffLoopDataStr:
+
+[2023/4/14 1:51:42]发起者:
+内容:System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at GUIPackage.Skill.realizeBuffEndSeid34 (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Avatar attaker, KBEngine.Avatar receiver, System.Int32 type) [0x00010] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at GUIPackage.Skill.realizeBuffEndSeid (System.Int32 seid, System.Collections.Generic.List`1[T] damage, KBEngine.Entity _attaker, KBEngine.Entity _receiver, System.Int32 type) [0x00044] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.ListRealizeSeid139 (System.Int32 seid, KBEngine.Avatar avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x00112] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d7ac571ca2d04b2f981d0d886fa067cf>:0 
+  at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+  at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
+
