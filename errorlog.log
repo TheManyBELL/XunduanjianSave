@@ -8933,3 +8933,21 @@ buffLoopDataStr:
   at KBEngine.Buff.loopRealizeSeid (System.Int32 seid, KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag) [0x0003c] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
   at KBEngine.Buff.onLoopTrigger (KBEngine.Entity _avatar, System.Collections.Generic.List`1[T] buffInfo, System.Collections.Generic.List`1[T] flag, KBEngine.BuffLoopData buffLoopData) [0x0001b] in <9e3ad47c67ff4c15a445c0287e850a0b>:0 
 
+[2023/4/16 21:53:27]发起者:
+内容:添加好感度异常，没有找到ID为20120的NPC，传入的参数npcid:20120，addCount:1
+
+[2023/4/16 21:53:27]发起者:
+内容:添加情分异常，没有找到ID为20120的NPC，传入的参数npcid:20120，addCount:5000
+
+[2023/4/16 21:53:27]发起者:
+EmailDataMag.AuToSendToPlayer (System.Int32 npcId, System.Int32 actionId, System.Int32 answerType, System.String sendTime, System.Object obj) (at <a6bf40c8667344d4b0708f0e50aca2b7>:0)
+CyEmailCell+<>c__DisplayClass13_1.<UpdateTiJiao>b__0 () (at <a6bf40c8667344d4b0708f0e50aca2b7>:0)
+UnityEngine.Events.InvokableCall.Invoke () (at <d1ee6842adb54fe4a47b6961de57640a>:0)
+UnityEngine.Events.UnityEvent.Invoke () (at <d1ee6842adb54fe4a47b6961de57640a>:0)
+BtnCell.MouseUp () (at <a6bf40c8667344d4b0708f0e50aca2b7>:0)
+LunDaoBtnBase.OnPointerUp (UnityEngine.EventSystems.PointerEventData eventData) (at <a6bf40c8667344d4b0708f0e50aca2b7>:0)
+UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerUpHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at <2d363c57bce242859dd5df249ef3bedb>:0)
+UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at <2d363c57bce242859dd5df249ef3bedb>:0)
+UnityEngine.EventSystems.EventSystem:Update()
+内容:NullReferenceException: Object reference not set to an instance of an object
+
